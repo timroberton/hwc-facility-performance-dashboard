@@ -1,0 +1,6 @@
+{
+  "name": "tim-solid-ui-panther",
+  "version": "0.1",
+  "main": "./mod.ts",
+  "type": "module"
+}

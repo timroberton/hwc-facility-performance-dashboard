@@ -1,0 +1,4988 @@
+{
+  "districts": [
+    "Bhavnagar",
+    "Kalahandi",
+    "West Garo Hills"
+  ],
+  "districtMap": {
+    "Bhavnagar": {
+      "id": "Bhavnagar",
+      "districtPopulation": 2968791,
+      "blocks": [
+        "Bhavnagar",
+        "BMC",
+        "Gariadhar",
+        "Ghogha",
+        "Mahua",
+        "Palitana",
+        "Sihor",
+        "Talaja",
+        "Umrala",
+        "Vallabhipur"
+      ],
+      "blockMap": {
+        "Bhavnagar": {
+          "id": "Bhavnagar",
+          "blockPopulation": 787319,
+          "facilities": [
+            "1",
+            "2",
+            "23",
+            "3",
+            "13",
+            "27",
+            "16",
+            "4",
+            "19",
+            "5",
+            "7",
+            "17",
+            "29",
+            "28",
+            "10",
+            "20",
+            "21",
+            "14",
+            "11",
+            "15",
+            "26",
+            "8",
+            "18",
+            "22",
+            "12",
+            "6",
+            "24",
+            "25",
+            "9"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "23",
+              "13",
+              "27",
+              "16",
+              "19",
+              "7",
+              "17",
+              "29",
+              "28",
+              "10",
+              "20",
+              "21",
+              "14",
+              "11",
+              "15",
+              "26",
+              "8",
+              "18",
+              "22",
+              "12",
+              "24",
+              "25",
+              "9"
+            ],
+            "PHC": [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "1": {
+              "id": "1",
+              "facilityName": "Adhelai",
+              "facilityType": "PHC"
+            },
+            "2": {
+              "id": "2",
+              "facilityName": "Bhandariya",
+              "facilityType": "PHC"
+            },
+            "3": {
+              "id": "3",
+              "facilityName": "Bhumbhali",
+              "facilityType": "PHC"
+            },
+            "4": {
+              "id": "4",
+              "facilityName": "Fariyadaka",
+              "facilityType": "PHC"
+            },
+            "5": {
+              "id": "5",
+              "facilityName": "Hathab",
+              "facilityType": "PHC"
+            },
+            "6": {
+              "id": "6",
+              "facilityName": "Undavi",
+              "facilityType": "PHC"
+            },
+            "7": {
+              "id": "7",
+              "facilityName": "Kalatalav",
+              "facilityType": "SHC"
+            },
+            "8": {
+              "id": "8",
+              "facilityName": "Savainagar",
+              "facilityType": "SHC"
+            },
+            "9": {
+              "id": "9",
+              "facilityName": "Velavadar",
+              "facilityType": "SHC"
+            },
+            "10": {
+              "id": "10",
+              "facilityName": "Kobdi",
+              "facilityType": "SHC"
+            },
+            "11": {
+              "id": "11",
+              "facilityName": "Nagdhaniba",
+              "facilityType": "SHC"
+            },
+            "12": {
+              "id": "12",
+              "facilityName": "Thordi",
+              "facilityType": "SHC"
+            },
+            "13": {
+              "id": "13",
+              "facilityName": "Bhuteshwar",
+              "facilityType": "SHC"
+            },
+            "14": {
+              "id": "14",
+              "facilityName": "Malanka",
+              "facilityType": "SHC"
+            },
+            "15": {
+              "id": "15",
+              "facilityName": "Nava Ratanpar",
+              "facilityType": "SHC"
+            },
+            "16": {
+              "id": "16",
+              "facilityName": "Budhel-2",
+              "facilityType": "SHC"
+            },
+            "17": {
+              "id": "17",
+              "facilityName": "Kamlej",
+              "facilityType": "SHC"
+            },
+            "18": {
+              "id": "18",
+              "facilityName": "Sodvadar",
+              "facilityType": "SHC"
+            },
+            "19": {
+              "id": "19",
+              "facilityName": "Gundi",
+              "facilityType": "SHC"
+            },
+            "20": {
+              "id": "20",
+              "facilityName": "Koliyak",
+              "facilityType": "SHC"
+            },
+            "21": {
+              "id": "21",
+              "facilityName": "Lakhanka",
+              "facilityType": "SHC"
+            },
+            "22": {
+              "id": "22",
+              "facilityName": "Thalsar",
+              "facilityType": "SHC"
+            },
+            "23": {
+              "id": "23",
+              "facilityName": "Bhojpara",
+              "facilityType": "SHC"
+            },
+            "24": {
+              "id": "24",
+              "facilityName": "Vartej-1",
+              "facilityType": "SHC"
+            },
+            "25": {
+              "id": "25",
+              "facilityName": "Vartej-2",
+              "facilityType": "SHC"
+            },
+            "26": {
+              "id": "26",
+              "facilityName": "Sanesh",
+              "facilityType": "SHC"
+            },
+            "27": {
+              "id": "27",
+              "facilityName": "Budhel 1",
+              "facilityType": "SHC"
+            },
+            "28": {
+              "id": "28",
+              "facilityName": "Khadsalia",
+              "facilityType": "SHC"
+            },
+            "29": {
+              "id": "29",
+              "facilityName": "Kardej",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "BMC": {
+          "id": "BMC",
+          "blockPopulation": 643365,
+          "facilities": [
+            "296",
+            "297",
+            "298",
+            "299",
+            "300",
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "306",
+            "307",
+            "308",
+            "309"
+          ],
+          "facilitiesByFT": {
+            "SHC": [],
+            "PHC": [],
+            "UHC": [],
+            "UPHC": [
+              "296",
+              "297",
+              "298",
+              "299",
+              "300",
+              "301",
+              "302",
+              "303",
+              "304",
+              "305",
+              "306",
+              "307",
+              "308",
+              "309"
+            ]
+          },
+          "facilityMap": {
+            "296": {
+              "id": "296",
+              "facilityName": "Akhlol",
+              "facilityType": "UPHC"
+            },
+            "297": {
+              "id": "297",
+              "facilityName": "Anandnagar",
+              "facilityType": "UPHC"
+            },
+            "298": {
+              "id": "298",
+              "facilityName": "Bharatnagar",
+              "facilityType": "UPHC"
+            },
+            "299": {
+              "id": "299",
+              "facilityName": "Bhilwada",
+              "facilityType": "UPHC"
+            },
+            "300": {
+              "id": "300",
+              "facilityName": "Bortalav",
+              "facilityType": "UPHC"
+            },
+            "301": {
+              "id": "301",
+              "facilityName": "Kaliyabid",
+              "facilityType": "UPHC"
+            },
+            "302": {
+              "id": "302",
+              "facilityName": "Karchaliyapara",
+              "facilityType": "UPHC"
+            },
+            "303": {
+              "id": "303",
+              "facilityName": "Kumbharwada",
+              "facilityType": "UPHC"
+            },
+            "304": {
+              "id": "304",
+              "facilityName": "New Kumbharwada",
+              "facilityType": "UPHC"
+            },
+            "305": {
+              "id": "305",
+              "facilityName": "Shivaji Circle",
+              "facilityType": "UPHC"
+            },
+            "306": {
+              "id": "306",
+              "facilityName": "Sidsar",
+              "facilityType": "UPHC"
+            },
+            "307": {
+              "id": "307",
+              "facilityName": "Subhashnagar",
+              "facilityType": "UPHC"
+            },
+            "308": {
+              "id": "308",
+              "facilityName": "Vadva A",
+              "facilityType": "UPHC"
+            },
+            "309": {
+              "id": "309",
+              "facilityName": "Washingghat",
+              "facilityType": "UPHC"
+            }
+          }
+        },
+        "Gariadhar": {
+          "id": "Gariadhar",
+          "blockPopulation": 114887,
+          "facilities": [
+            "44",
+            "45",
+            "39",
+            "30",
+            "40",
+            "46",
+            "47",
+            "31",
+            "38",
+            "33",
+            "41",
+            "34",
+            "35",
+            "36",
+            "37",
+            "42",
+            "43",
+            "32",
+            "48"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "44",
+              "45",
+              "39",
+              "40",
+              "46",
+              "47",
+              "38",
+              "33",
+              "41",
+              "34",
+              "35",
+              "36",
+              "37",
+              "42",
+              "43",
+              "48"
+            ],
+            "PHC": [
+              "30",
+              "31",
+              "32"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "30": {
+              "id": "30",
+              "facilityName": "Mangadh",
+              "facilityType": "PHC"
+            },
+            "31": {
+              "id": "31",
+              "facilityName": "Motivavadi",
+              "facilityType": "PHC"
+            },
+            "32": {
+              "id": "32",
+              "facilityName": "Velavadar",
+              "facilityType": "PHC"
+            },
+            "33": {
+              "id": "33",
+              "facilityName": "Parvadi",
+              "facilityType": "SHC"
+            },
+            "34": {
+              "id": "34",
+              "facilityName": "Rupavati",
+              "facilityType": "SHC"
+            },
+            "35": {
+              "id": "35",
+              "facilityName": "Samadhiyala",
+              "facilityType": "SHC"
+            },
+            "36": {
+              "id": "36",
+              "facilityName": "Satpada",
+              "facilityType": "SHC"
+            },
+            "37": {
+              "id": "37",
+              "facilityName": "Shivendranagar",
+              "facilityType": "SHC"
+            },
+            "38": {
+              "id": "38",
+              "facilityName": "Pachchhegam",
+              "facilityType": "SHC"
+            },
+            "39": {
+              "id": "39",
+              "facilityName": "Mandvi",
+              "facilityType": "SHC"
+            },
+            "40": {
+              "id": "40",
+              "facilityName": "Manvilas",
+              "facilityType": "SHC"
+            },
+            "41": {
+              "id": "41",
+              "facilityName": "Ratanvav",
+              "facilityType": "SHC"
+            },
+            "42": {
+              "id": "42",
+              "facilityName": "Sitapur",
+              "facilityType": "SHC"
+            },
+            "43": {
+              "id": "43",
+              "facilityName": "Surnivas",
+              "facilityType": "SHC"
+            },
+            "44": {
+              "id": "44",
+              "facilityName": "Bhandariya",
+              "facilityType": "SHC"
+            },
+            "45": {
+              "id": "45",
+              "facilityName": "Luvara",
+              "facilityType": "SHC"
+            },
+            "46": {
+              "id": "46",
+              "facilityName": "Morba",
+              "facilityType": "SHC"
+            },
+            "47": {
+              "id": "47",
+              "facilityName": "Mota charodiya",
+              "facilityType": "SHC"
+            },
+            "48": {
+              "id": "48",
+              "facilityName": "Virdi",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Ghogha": {
+          "id": "Ghogha",
+          "blockPopulation": 100977,
+          "facilities": [
+            "64",
+            "57",
+            "52",
+            "53",
+            "65",
+            "54",
+            "66",
+            "55",
+            "58",
+            "49",
+            "67",
+            "62",
+            "56",
+            "59",
+            "50",
+            "60",
+            "63",
+            "68",
+            "51",
+            "61"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "64",
+              "57",
+              "52",
+              "53",
+              "65",
+              "54",
+              "66",
+              "55",
+              "58",
+              "67",
+              "62",
+              "56",
+              "59",
+              "60",
+              "63",
+              "68",
+              "61"
+            ],
+            "PHC": [
+              "49",
+              "50",
+              "51"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "49": {
+              "id": "49",
+              "facilityName": "Morchand",
+              "facilityType": "PHC"
+            },
+            "50": {
+              "id": "50",
+              "facilityName": "Tansa",
+              "facilityType": "PHC"
+            },
+            "51": {
+              "id": "51",
+              "facilityName": "Valukad G",
+              "facilityType": "PHC"
+            },
+            "52": {
+              "id": "52",
+              "facilityName": "Ghogha-1",
+              "facilityType": "SHC"
+            },
+            "53": {
+              "id": "53",
+              "facilityName": "Ghogha-2",
+              "facilityType": "SHC"
+            },
+            "54": {
+              "id": "54",
+              "facilityName": "Kareda",
+              "facilityType": "SHC"
+            },
+            "55": {
+              "id": "55",
+              "facilityName": "Kuda",
+              "facilityType": "SHC"
+            },
+            "56": {
+              "id": "56",
+              "facilityName": "Padva",
+              "facilityType": "SHC"
+            },
+            "57": {
+              "id": "57",
+              "facilityName": "Bhankhal",
+              "facilityType": "SHC"
+            },
+            "58": {
+              "id": "58",
+              "facilityName": "Kukad",
+              "facilityType": "SHC"
+            },
+            "59": {
+              "id": "59",
+              "facilityName": "Sanodar",
+              "facilityType": "SHC"
+            },
+            "60": {
+              "id": "60",
+              "facilityName": "Tansa-1",
+              "facilityType": "SHC"
+            },
+            "61": {
+              "id": "61",
+              "facilityName": "Vavdi",
+              "facilityType": "SHC"
+            },
+            "62": {
+              "id": "62",
+              "facilityName": "Nesvad",
+              "facilityType": "SHC"
+            },
+            "63": {
+              "id": "63",
+              "facilityName": "Trambak",
+              "facilityType": "SHC"
+            },
+            "64": {
+              "id": "64",
+              "facilityName": "Avaniya",
+              "facilityType": "SHC"
+            },
+            "65": {
+              "id": "65",
+              "facilityName": "Kankot",
+              "facilityType": "SHC"
+            },
+            "66": {
+              "id": "66",
+              "facilityName": "Khatadi",
+              "facilityType": "SHC"
+            },
+            "67": {
+              "id": "67",
+              "facilityName": "Mota Khokhara",
+              "facilityType": "SHC"
+            },
+            "68": {
+              "id": "68",
+              "facilityName": "Ukharala",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Mahua": {
+          "id": "Mahua",
+          "blockPopulation": 407259,
+          "facilities": [
+            "156",
+            "157",
+            "145",
+            "158",
+            "146",
+            "159",
+            "160",
+            "161",
+            "147",
+            "162",
+            "148",
+            "163",
+            "164",
+            "165",
+            "166",
+            "167",
+            "168",
+            "169",
+            "170",
+            "171",
+            "172",
+            "173",
+            "174",
+            "149",
+            "175",
+            "176",
+            "177",
+            "150",
+            "178",
+            "179",
+            "180",
+            "181",
+            "182",
+            "183",
+            "184",
+            "185",
+            "151",
+            "186",
+            "152",
+            "187",
+            "188",
+            "189",
+            "190",
+            "153",
+            "191",
+            "192",
+            "193",
+            "194",
+            "195",
+            "196",
+            "197",
+            "198",
+            "199",
+            "200",
+            "201",
+            "202",
+            "203",
+            "204",
+            "154",
+            "205",
+            "155",
+            "206",
+            "207",
+            "208",
+            "209",
+            "210",
+            "211"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "156",
+              "157",
+              "158",
+              "159",
+              "160",
+              "161",
+              "162",
+              "163",
+              "164",
+              "165",
+              "166",
+              "167",
+              "168",
+              "169",
+              "170",
+              "171",
+              "172",
+              "173",
+              "174",
+              "175",
+              "176",
+              "177",
+              "178",
+              "179",
+              "180",
+              "181",
+              "182",
+              "183",
+              "184",
+              "185",
+              "186",
+              "187",
+              "188",
+              "189",
+              "190",
+              "191",
+              "192",
+              "193",
+              "194",
+              "195",
+              "196",
+              "197",
+              "198",
+              "199",
+              "200",
+              "201",
+              "202",
+              "203",
+              "204",
+              "205",
+              "206",
+              "207",
+              "208",
+              "209",
+              "210",
+              "211"
+            ],
+            "PHC": [
+              "145",
+              "146",
+              "147",
+              "148",
+              "149",
+              "150",
+              "151",
+              "152",
+              "153",
+              "154",
+              "155"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "145": {
+              "id": "145",
+              "facilityName": "Belampar",
+              "facilityType": "PHC"
+            },
+            "146": {
+              "id": "146",
+              "facilityName": "Bhadrod",
+              "facilityType": "PHC"
+            },
+            "147": {
+              "id": "147",
+              "facilityName": "Bila",
+              "facilityType": "PHC"
+            },
+            "148": {
+              "id": "148",
+              "facilityName": "Boda",
+              "facilityType": "PHC"
+            },
+            "149": {
+              "id": "149",
+              "facilityName": "Gundarna",
+              "facilityType": "PHC"
+            },
+            "150": {
+              "id": "150",
+              "facilityName": "Kalsar",
+              "facilityType": "PHC"
+            },
+            "151": {
+              "id": "151",
+              "facilityName": "Kumbhan",
+              "facilityType": "PHC"
+            },
+            "152": {
+              "id": "152",
+              "facilityName": "Madhiya",
+              "facilityType": "PHC"
+            },
+            "153": {
+              "id": "153",
+              "facilityName": "Mota Aasarana",
+              "facilityType": "PHC"
+            },
+            "154": {
+              "id": "154",
+              "facilityName": "Sendarda",
+              "facilityType": "PHC"
+            },
+            "155": {
+              "id": "155",
+              "facilityName": "Talgajarda",
+              "facilityType": "PHC"
+            },
+            "156": {
+              "id": "156",
+              "facilityName": "Ayush Helth And Wellness Center , Bhadrod",
+              "facilityType": "SHC"
+            },
+            "157": {
+              "id": "157",
+              "facilityName": "Bagdana",
+              "facilityType": "SHC"
+            },
+            "158": {
+              "id": "158",
+              "facilityName": "Bhadara",
+              "facilityType": "SHC"
+            },
+            "159": {
+              "id": "159",
+              "facilityName": "Bhadrod",
+              "facilityType": "SHC"
+            },
+            "160": {
+              "id": "160",
+              "facilityName": "Bhambhaniya",
+              "facilityType": "SHC"
+            },
+            "161": {
+              "id": "161",
+              "facilityName": "Bhanvadiya",
+              "facilityType": "SHC"
+            },
+            "162": {
+              "id": "162",
+              "facilityName": "Biladi",
+              "facilityType": "SHC"
+            },
+            "163": {
+              "id": "163",
+              "facilityName": "Boradi",
+              "facilityType": "SHC"
+            },
+            "164": {
+              "id": "164",
+              "facilityName": "Dayal",
+              "facilityType": "SHC"
+            },
+            "165": {
+              "id": "165",
+              "facilityName": "Degvada",
+              "facilityType": "SHC"
+            },
+            "166": {
+              "id": "166",
+              "facilityName": "Dharai",
+              "facilityType": "SHC"
+            },
+            "167": {
+              "id": "167",
+              "facilityName": "Dhudhala - 2",
+              "facilityType": "SHC"
+            },
+            "168": {
+              "id": "168",
+              "facilityName": "Doliya",
+              "facilityType": "SHC"
+            },
+            "169": {
+              "id": "169",
+              "facilityName": "Dundas",
+              "facilityType": "SHC"
+            },
+            "170": {
+              "id": "170",
+              "facilityName": "Gadhada",
+              "facilityType": "SHC"
+            },
+            "171": {
+              "id": "171",
+              "facilityName": "Galthar",
+              "facilityType": "SHC"
+            },
+            "172": {
+              "id": "172",
+              "facilityName": "Goras",
+              "facilityType": "SHC"
+            },
+            "173": {
+              "id": "173",
+              "facilityName": "Gujrada",
+              "facilityType": "SHC"
+            },
+            "174": {
+              "id": "174",
+              "facilityName": "Gundarana-2",
+              "facilityType": "SHC"
+            },
+            "175": {
+              "id": "175",
+              "facilityName": "Jesar-1",
+              "facilityType": "SHC"
+            },
+            "176": {
+              "id": "176",
+              "facilityName": "Jesar-2",
+              "facilityType": "SHC"
+            },
+            "177": {
+              "id": "177",
+              "facilityName": "Jesar-3",
+              "facilityType": "SHC"
+            },
+            "178": {
+              "id": "178",
+              "facilityName": "Kalsar 2",
+              "facilityType": "SHC"
+            },
+            "179": {
+              "id": "179",
+              "facilityName": "Kantasar",
+              "facilityType": "SHC"
+            },
+            "180": {
+              "id": "180",
+              "facilityName": "Karamdiya",
+              "facilityType": "SHC"
+            },
+            "181": {
+              "id": "181",
+              "facilityName": "Karla",
+              "facilityType": "SHC"
+            },
+            "182": {
+              "id": "182",
+              "facilityName": "Katpar",
+              "facilityType": "SHC"
+            },
+            "183": {
+              "id": "183",
+              "facilityName": "Khared",
+              "facilityType": "SHC"
+            },
+            "184": {
+              "id": "184",
+              "facilityName": "Khari",
+              "facilityType": "SHC"
+            },
+            "185": {
+              "id": "185",
+              "facilityName": "Konjli",
+              "facilityType": "SHC"
+            },
+            "186": {
+              "id": "186",
+              "facilityName": "Longadi",
+              "facilityType": "SHC"
+            },
+            "187": {
+              "id": "187",
+              "facilityName": "Malvav",
+              "facilityType": "SHC"
+            },
+            "188": {
+              "id": "188",
+              "facilityName": "Moda",
+              "facilityType": "SHC"
+            },
+            "189": {
+              "id": "189",
+              "facilityName": "Monpar",
+              "facilityType": "SHC"
+            },
+            "190": {
+              "id": "190",
+              "facilityName": "Morchupna",
+              "facilityType": "SHC"
+            },
+            "191": {
+              "id": "191",
+              "facilityName": "Mota Jadra",
+              "facilityType": "SHC"
+            },
+            "192": {
+              "id": "192",
+              "facilityName": "Mota Khuntvada-1",
+              "facilityType": "SHC"
+            },
+            "193": {
+              "id": "193",
+              "facilityName": "Mota Khuntvada-2",
+              "facilityType": "SHC"
+            },
+            "194": {
+              "id": "194",
+              "facilityName": "Motijagdhar",
+              "facilityType": "SHC"
+            },
+            "195": {
+              "id": "195",
+              "facilityName": "Naip",
+              "facilityType": "SHC"
+            },
+            "196": {
+              "id": "196",
+              "facilityName": "Nana Asrana",
+              "facilityType": "SHC"
+            },
+            "197": {
+              "id": "197",
+              "facilityName": "Nana Jadara",
+              "facilityType": "SHC"
+            },
+            "198": {
+              "id": "198",
+              "facilityName": "Nana Khuntvada",
+              "facilityType": "SHC"
+            },
+            "199": {
+              "id": "199",
+              "facilityName": "Neswad 2",
+              "facilityType": "SHC"
+            },
+            "200": {
+              "id": "200",
+              "facilityName": "Neswad1",
+              "facilityType": "SHC"
+            },
+            "201": {
+              "id": "201",
+              "facilityName": "Nicha Kotada",
+              "facilityType": "SHC"
+            },
+            "202": {
+              "id": "202",
+              "facilityName": "Otha",
+              "facilityType": "SHC"
+            },
+            "203": {
+              "id": "203",
+              "facilityName": "Ranivada",
+              "facilityType": "SHC"
+            },
+            "204": {
+              "id": "204",
+              "facilityName": "Ratol",
+              "facilityType": "SHC"
+            },
+            "205": {
+              "id": "205",
+              "facilityName": "Shantinagar",
+              "facilityType": "SHC"
+            },
+            "206": {
+              "id": "206",
+              "facilityName": "Tared-1",
+              "facilityType": "SHC"
+            },
+            "207": {
+              "id": "207",
+              "facilityName": "Tatniya",
+              "facilityType": "SHC"
+            },
+            "208": {
+              "id": "208",
+              "facilityName": "Tavida",
+              "facilityType": "SHC"
+            },
+            "209": {
+              "id": "209",
+              "facilityName": "Ucha kotada",
+              "facilityType": "SHC"
+            },
+            "210": {
+              "id": "210",
+              "facilityName": "Vadali",
+              "facilityType": "SHC"
+            },
+            "211": {
+              "id": "211",
+              "facilityName": "Vaghnagar",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Palitana": {
+          "id": "Palitana",
+          "blockPopulation": 210566,
+          "facilities": [
+            "219",
+            "212",
+            "220",
+            "221",
+            "222",
+            "223",
+            "224",
+            "225",
+            "226",
+            "227",
+            "213",
+            "228",
+            "229",
+            "230",
+            "231",
+            "232",
+            "214",
+            "233",
+            "234",
+            "235",
+            "236",
+            "237",
+            "215",
+            "238",
+            "216",
+            "218",
+            "239",
+            "241",
+            "240",
+            "242",
+            "243",
+            "244",
+            "245",
+            "246",
+            "217",
+            "247"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "219",
+              "220",
+              "221",
+              "222",
+              "223",
+              "224",
+              "225",
+              "226",
+              "227",
+              "228",
+              "229",
+              "230",
+              "231",
+              "232",
+              "233",
+              "234",
+              "235",
+              "236",
+              "237",
+              "238",
+              "239",
+              "241",
+              "240",
+              "242",
+              "243",
+              "244",
+              "245",
+              "246",
+              "247"
+            ],
+            "PHC": [
+              "212",
+              "213",
+              "214",
+              "215",
+              "216",
+              "217"
+            ],
+            "UHC": [
+              "218"
+            ],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "212": {
+              "id": "212",
+              "facilityName": "Ayavej",
+              "facilityType": "PHC"
+            },
+            "213": {
+              "id": "213",
+              "facilityName": "Gheti",
+              "facilityType": "PHC"
+            },
+            "214": {
+              "id": "214",
+              "facilityName": "Luvarvav",
+              "facilityType": "PHC"
+            },
+            "215": {
+              "id": "215",
+              "facilityName": "Nanirajsthali",
+              "facilityType": "PHC"
+            },
+            "216": {
+              "id": "216",
+              "facilityName": "Nondhanvadar",
+              "facilityType": "PHC"
+            },
+            "217": {
+              "id": "217",
+              "facilityName": "Valukad (Pa)",
+              "facilityType": "PHC"
+            },
+            "218": {
+              "id": "218",
+              "facilityName": "Palitana",
+              "facilityType": "UHC"
+            },
+            "219": {
+              "id": "219",
+              "facilityName": "Anida Dem",
+              "facilityType": "SHC"
+            },
+            "220": {
+              "id": "220",
+              "facilityName": "Ayush Helth And Wellness Center , Tadach",
+              "facilityType": "SHC"
+            },
+            "221": {
+              "id": "221",
+              "facilityName": "Bhadavav",
+              "facilityType": "SHC"
+            },
+            "222": {
+              "id": "222",
+              "facilityName": "Bhandariya",
+              "facilityType": "SHC"
+            },
+            "223": {
+              "id": "223",
+              "facilityName": "Dedrada",
+              "facilityType": "SHC"
+            },
+            "224": {
+              "id": "224",
+              "facilityName": "Depla",
+              "facilityType": "SHC"
+            },
+            "225": {
+              "id": "225",
+              "facilityName": "Dudhada",
+              "facilityType": "SHC"
+            },
+            "226": {
+              "id": "226",
+              "facilityName": "Dungarpur",
+              "facilityType": "SHC"
+            },
+            "227": {
+              "id": "227",
+              "facilityName": "Garajiya",
+              "facilityType": "SHC"
+            },
+            "228": {
+              "id": "228",
+              "facilityName": "Hanol",
+              "facilityType": "SHC"
+            },
+            "229": {
+              "id": "229",
+              "facilityName": "Jamanvav",
+              "facilityType": "SHC"
+            },
+            "230": {
+              "id": "230",
+              "facilityName": "Kadamgiri",
+              "facilityType": "SHC"
+            },
+            "231": {
+              "id": "231",
+              "facilityName": "Kanjarada",
+              "facilityType": "SHC"
+            },
+            "232": {
+              "id": "232",
+              "facilityName": "Kumbhan",
+              "facilityType": "SHC"
+            },
+            "233": {
+              "id": "233",
+              "facilityName": "Medha",
+              "facilityType": "SHC"
+            },
+            "234": {
+              "id": "234",
+              "facilityName": "Mokhadka",
+              "facilityType": "SHC"
+            },
+            "235": {
+              "id": "235",
+              "facilityName": "Moti Paniyali",
+              "facilityType": "SHC"
+            },
+            "236": {
+              "id": "236",
+              "facilityName": "Moti Rajsthali",
+              "facilityType": "SHC"
+            },
+            "237": {
+              "id": "237",
+              "facilityName": "Nani Paniyari",
+              "facilityType": "SHC"
+            },
+            "238": {
+              "id": "238",
+              "facilityName": "Navagam",
+              "facilityType": "SHC"
+            },
+            "239": {
+              "id": "239",
+              "facilityName": "Rajpara",
+              "facilityType": "SHC"
+            },
+            "240": {
+              "id": "240",
+              "facilityName": "Randora",
+              "facilityType": "SHC"
+            },
+            "241": {
+              "id": "241",
+              "facilityName": "Ramparda-kha",
+              "facilityType": "SHC"
+            },
+            "242": {
+              "id": "242",
+              "facilityName": "Rohisala",
+              "facilityType": "SHC"
+            },
+            "243": {
+              "id": "243",
+              "facilityName": "Samdhiyada",
+              "facilityType": "SHC"
+            },
+            "244": {
+              "id": "244",
+              "facilityName": "Senjaliya",
+              "facilityType": "SHC"
+            },
+            "245": {
+              "id": "245",
+              "facilityName": "Thadach",
+              "facilityType": "SHC"
+            },
+            "246": {
+              "id": "246",
+              "facilityName": "Vadiya",
+              "facilityType": "SHC"
+            },
+            "247": {
+              "id": "247",
+              "facilityName": "Virpur",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Sihor": {
+          "id": "Sihor",
+          "blockPopulation": 212236,
+          "facilities": [
+            "85",
+            "90",
+            "86",
+            "96",
+            "83",
+            "75",
+            "91",
+            "76",
+            "97",
+            "92",
+            "102",
+            "80",
+            "77",
+            "78",
+            "79",
+            "69",
+            "95",
+            "98",
+            "87",
+            "99",
+            "81",
+            "100",
+            "88",
+            "70",
+            "84",
+            "104",
+            "82",
+            "74",
+            "71",
+            "89",
+            "72",
+            "93",
+            "73",
+            "94"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "85",
+              "90",
+              "86",
+              "96",
+              "83",
+              "75",
+              "91",
+              "76",
+              "97",
+              "92",
+              "102",
+              "80",
+              "77",
+              "78",
+              "79",
+              "95",
+              "98",
+              "87",
+              "99",
+              "81",
+              "100",
+              "88",
+              "84",
+              "104",
+              "82",
+              "89",
+              "93",
+              "94"
+            ],
+            "PHC": [
+              "69",
+              "70",
+              "71",
+              "72",
+              "73"
+            ],
+            "UHC": [
+              "74"
+            ],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "69": {
+              "id": "69",
+              "facilityName": "Madhada",
+              "facilityType": "PHC"
+            },
+            "70": {
+              "id": "70",
+              "facilityName": "Sanosara",
+              "facilityType": "PHC"
+            },
+            "71": {
+              "id": "71",
+              "facilityName": "Songadh",
+              "facilityType": "PHC"
+            },
+            "72": {
+              "id": "72",
+              "facilityName": "Tana",
+              "facilityType": "PHC"
+            },
+            "73": {
+              "id": "73",
+              "facilityName": "Usarad",
+              "facilityType": "PHC"
+            },
+            "74": {
+              "id": "74",
+              "facilityName": "Shihor UPHC",
+              "facilityType": "UHC"
+            },
+            "75": {
+              "id": "75",
+              "facilityName": "Budhana",
+              "facilityType": "SHC"
+            },
+            "76": {
+              "id": "76",
+              "facilityName": "Dhundhsar",
+              "facilityType": "SHC"
+            },
+            "77": {
+              "id": "77",
+              "facilityName": "Jambala",
+              "facilityType": "SHC"
+            },
+            "78": {
+              "id": "78",
+              "facilityName": "Kanad",
+              "facilityType": "SHC"
+            },
+            "79": {
+              "id": "79",
+              "facilityName": "Khari",
+              "facilityType": "SHC"
+            },
+            "80": {
+              "id": "80",
+              "facilityName": "Isvaria",
+              "facilityType": "SHC"
+            },
+            "81": {
+              "id": "81",
+              "facilityName": "Pipardi",
+              "facilityType": "SHC"
+            },
+            "82": {
+              "id": "82",
+              "facilityName": "Sarvedi",
+              "facilityType": "SHC"
+            },
+            "83": {
+              "id": "83",
+              "facilityName": "Bhutiya",
+              "facilityType": "SHC"
+            },
+            "84": {
+              "id": "84",
+              "facilityName": "Sanosara-2",
+              "facilityType": "SHC"
+            },
+            "85": {
+              "id": "85",
+              "facilityName": "Aambla",
+              "facilityType": "SHC"
+            },
+            "86": {
+              "id": "86",
+              "facilityName": "Amargadh",
+              "facilityType": "SHC"
+            },
+            "87": {
+              "id": "87",
+              "facilityName": "Paldi",
+              "facilityType": "SHC"
+            },
+            "88": {
+              "id": "88",
+              "facilityName": "Ramdhari",
+              "facilityType": "SHC"
+            },
+            "89": {
+              "id": "89",
+              "facilityName": "Songadh-2",
+              "facilityType": "SHC"
+            },
+            "90": {
+              "id": "90",
+              "facilityName": "Agiyali",
+              "facilityType": "SHC"
+            },
+            "91": {
+              "id": "91",
+              "facilityName": "Devgana",
+              "facilityType": "SHC"
+            },
+            "92": {
+              "id": "92",
+              "facilityName": "Gundala (Shihor)",
+              "facilityType": "SHC"
+            },
+            "93": {
+              "id": "93",
+              "facilityName": "Tana-2",
+              "facilityType": "SHC"
+            },
+            "94": {
+              "id": "94",
+              "facilityName": "Varal",
+              "facilityType": "SHC"
+            },
+            "95": {
+              "id": "95",
+              "facilityName": "Mota Surka",
+              "facilityType": "SHC"
+            },
+            "96": {
+              "id": "96",
+              "facilityName": "Bhadli",
+              "facilityType": "SHC"
+            },
+            "97": {
+              "id": "97",
+              "facilityName": "Ghanghali",
+              "facilityType": "SHC"
+            },
+            "98": {
+              "id": "98",
+              "facilityName": "Nesda",
+              "facilityType": "SHC"
+            },
+            "99": {
+              "id": "99",
+              "facilityName": "Pipaliya (Shihor)",
+              "facilityType": "SHC"
+            },
+            "100": {
+              "id": "100",
+              "facilityName": "Rajpara (Kho)",
+              "facilityType": "SHC"
+            },
+            "102": {
+              "id": "102",
+              "facilityName": "Gundana",
+              "facilityType": "SHC"
+            },
+            "104": {
+              "id": "104",
+              "facilityName": "Sarera",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Talaja": {
+          "id": "Talaja",
+          "blockPopulation": 325667,
+          "facilities": [
+            "258",
+            "259",
+            "248",
+            "249",
+            "260",
+            "261",
+            "262",
+            "264",
+            "263",
+            "265",
+            "266",
+            "267",
+            "268",
+            "269",
+            "270",
+            "271",
+            "272",
+            "273",
+            "250",
+            "251",
+            "274",
+            "275",
+            "252",
+            "276",
+            "277",
+            "278",
+            "257",
+            "279",
+            "280",
+            "281",
+            "282",
+            "253",
+            "283",
+            "284",
+            "285",
+            "286",
+            "287",
+            "288",
+            "254",
+            "289",
+            "290",
+            "291",
+            "292",
+            "255",
+            "293",
+            "256",
+            "294",
+            "295"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "258",
+              "259",
+              "260",
+              "261",
+              "262",
+              "264",
+              "263",
+              "265",
+              "266",
+              "267",
+              "268",
+              "269",
+              "270",
+              "271",
+              "272",
+              "273",
+              "274",
+              "275",
+              "276",
+              "277",
+              "278",
+              "257",
+              "279",
+              "280",
+              "281",
+              "282",
+              "283",
+              "284",
+              "285",
+              "286",
+              "287",
+              "288",
+              "289",
+              "290",
+              "291",
+              "292",
+              "293",
+              "294",
+              "295"
+            ],
+            "PHC": [
+              "248",
+              "249",
+              "250",
+              "251",
+              "252",
+              "253",
+              "254",
+              "255",
+              "256"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "248": {
+              "id": "248",
+              "facilityName": "Bhadraval",
+              "facilityType": "PHC"
+            },
+            "249": {
+              "id": "249",
+              "facilityName": "Borda",
+              "facilityType": "PHC"
+            },
+            "250": {
+              "id": "250",
+              "facilityName": "Kundheli",
+              "facilityType": "PHC"
+            },
+            "251": {
+              "id": "251",
+              "facilityName": "Manar",
+              "facilityType": "PHC"
+            },
+            "252": {
+              "id": "252",
+              "facilityName": "Mathavada",
+              "facilityType": "PHC"
+            },
+            "253": {
+              "id": "253",
+              "facilityName": "Pithalpur",
+              "facilityType": "PHC"
+            },
+            "254": {
+              "id": "254",
+              "facilityName": "Sartanpur",
+              "facilityType": "PHC"
+            },
+            "255": {
+              "id": "255",
+              "facilityName": "Trapaj",
+              "facilityType": "PHC"
+            },
+            "256": {
+              "id": "256",
+              "facilityName": "Unchdi",
+              "facilityType": "PHC"
+            },
+            "257": {
+              "id": "257",
+              "facilityName": "Pashavi",
+              "facilityType": "SHC"
+            },
+            "258": {
+              "id": "258",
+              "facilityName": "Bapada",
+              "facilityType": "SHC"
+            },
+            "259": {
+              "id": "259",
+              "facilityName": "Bela",
+              "facilityType": "SHC"
+            },
+            "260": {
+              "id": "260",
+              "facilityName": "Dakana",
+              "facilityType": "SHC"
+            },
+            "261": {
+              "id": "261",
+              "facilityName": "Datha-1",
+              "facilityType": "SHC"
+            },
+            "262": {
+              "id": "262",
+              "facilityName": "Datha-2",
+              "facilityType": "SHC"
+            },
+            "263": {
+              "id": "263",
+              "facilityName": "Devli",
+              "facilityType": "SHC"
+            },
+            "264": {
+              "id": "264",
+              "facilityName": "Devaliya",
+              "facilityType": "SHC"
+            },
+            "265": {
+              "id": "265",
+              "facilityName": "Dihor",
+              "facilityType": "SHC"
+            },
+            "266": {
+              "id": "266",
+              "facilityName": "Fulsar",
+              "facilityType": "SHC"
+            },
+            "267": {
+              "id": "267",
+              "facilityName": "Gadhula",
+              "facilityType": "SHC"
+            },
+            "268": {
+              "id": "268",
+              "facilityName": "Habukvad",
+              "facilityType": "SHC"
+            },
+            "269": {
+              "id": "269",
+              "facilityName": "Hajipar",
+              "facilityType": "SHC"
+            },
+            "270": {
+              "id": "270",
+              "facilityName": "Hamipara",
+              "facilityType": "SHC"
+            },
+            "271": {
+              "id": "271",
+              "facilityName": "Jaspara",
+              "facilityType": "SHC"
+            },
+            "272": {
+              "id": "272",
+              "facilityName": "Khandera",
+              "facilityType": "SHC"
+            },
+            "273": {
+              "id": "273",
+              "facilityName": "Kundhada",
+              "facilityType": "SHC"
+            },
+            "274": {
+              "id": "274",
+              "facilityName": "Manar-2",
+              "facilityType": "SHC"
+            },
+            "275": {
+              "id": "275",
+              "facilityName": "Mandava",
+              "facilityType": "SHC"
+            },
+            "276": {
+              "id": "276",
+              "facilityName": "Nava Sangana",
+              "facilityType": "SHC"
+            },
+            "277": {
+              "id": "277",
+              "facilityName": "Padargadh",
+              "facilityType": "SHC"
+            },
+            "278": {
+              "id": "278",
+              "facilityName": "Padari (Go)",
+              "facilityType": "SHC"
+            },
+            "279": {
+              "id": "279",
+              "facilityName": "Pasvi",
+              "facilityType": "SHC"
+            },
+            "280": {
+              "id": "280",
+              "facilityName": "Pavathi",
+              "facilityType": "SHC"
+            },
+            "281": {
+              "id": "281",
+              "facilityName": "Pingali",
+              "facilityType": "SHC"
+            },
+            "282": {
+              "id": "282",
+              "facilityName": "Piprala",
+              "facilityType": "SHC"
+            },
+            "283": {
+              "id": "283",
+              "facilityName": "Pratapara",
+              "facilityType": "SHC"
+            },
+            "284": {
+              "id": "284",
+              "facilityName": "Rajpara-2",
+              "facilityType": "SHC"
+            },
+            "285": {
+              "id": "285",
+              "facilityName": "Ralgon",
+              "facilityType": "SHC"
+            },
+            "286": {
+              "id": "286",
+              "facilityName": "Rojiya",
+              "facilityType": "SHC"
+            },
+            "287": {
+              "id": "287",
+              "facilityName": "Royal",
+              "facilityType": "SHC"
+            },
+            "288": {
+              "id": "288",
+              "facilityName": "Sartanpar",
+              "facilityType": "SHC"
+            },
+            "289": {
+              "id": "289",
+              "facilityName": "Sathara",
+              "facilityType": "SHC"
+            },
+            "290": {
+              "id": "290",
+              "facilityName": "Shobhavad",
+              "facilityType": "SHC"
+            },
+            "291": {
+              "id": "291",
+              "facilityName": "Thaliya",
+              "facilityType": "SHC"
+            },
+            "292": {
+              "id": "292",
+              "facilityName": "Timana",
+              "facilityType": "SHC"
+            },
+            "293": {
+              "id": "293",
+              "facilityName": "Trapaj-2",
+              "facilityType": "SHC"
+            },
+            "294": {
+              "id": "294",
+              "facilityName": "Velavdar",
+              "facilityType": "SHC"
+            },
+            "295": {
+              "id": "295",
+              "facilityName": "Zanzmer",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Umrala": {
+          "id": "Umrala",
+          "blockPopulation": 86323,
+          "facilities": [
+            "105",
+            "110",
+            "106",
+            "111",
+            "101",
+            "107",
+            "112",
+            "117",
+            "108",
+            "109",
+            "113",
+            "114",
+            "115",
+            "118",
+            "103",
+            "116",
+            "119",
+            "120",
+            "121",
+            "122"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "105",
+              "110",
+              "106",
+              "111",
+              "107",
+              "112",
+              "117",
+              "108",
+              "109",
+              "113",
+              "114",
+              "115",
+              "118",
+              "116",
+              "119",
+              "120",
+              "121",
+              "122"
+            ],
+            "PHC": [
+              "101",
+              "103"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "101": {
+              "id": "101",
+              "facilityName": "Dadva",
+              "facilityType": "PHC"
+            },
+            "103": {
+              "id": "103",
+              "facilityName": "Ranghola",
+              "facilityType": "PHC"
+            },
+            "105": {
+              "id": "105",
+              "facilityName": "Alampar",
+              "facilityType": "SHC"
+            },
+            "106": {
+              "id": "106",
+              "facilityName": "Bhojavadar",
+              "facilityType": "SHC"
+            },
+            "107": {
+              "id": "107",
+              "facilityName": "Dadva-2",
+              "facilityType": "SHC"
+            },
+            "108": {
+              "id": "108",
+              "facilityName": "Dhola Gam",
+              "facilityType": "SHC"
+            },
+            "109": {
+              "id": "109",
+              "facilityName": "Dhola Junction",
+              "facilityType": "SHC"
+            },
+            "110": {
+              "id": "110",
+              "facilityName": "Bajud",
+              "facilityType": "SHC"
+            },
+            "111": {
+              "id": "111",
+              "facilityName": "Chogath",
+              "facilityType": "SHC"
+            },
+            "112": {
+              "id": "112",
+              "facilityName": "Dharuka",
+              "facilityType": "SHC"
+            },
+            "113": {
+              "id": "113",
+              "facilityName": "Keriya",
+              "facilityType": "SHC"
+            },
+            "114": {
+              "id": "114",
+              "facilityName": "Langala",
+              "facilityType": "SHC"
+            },
+            "115": {
+              "id": "115",
+              "facilityName": "Limda",
+              "facilityType": "SHC"
+            },
+            "116": {
+              "id": "116",
+              "facilityName": "Ratanpar",
+              "facilityType": "SHC"
+            },
+            "117": {
+              "id": "117",
+              "facilityName": "Dharwala",
+              "facilityType": "SHC"
+            },
+            "118": {
+              "id": "118",
+              "facilityName": "Parwala",
+              "facilityType": "SHC"
+            },
+            "119": {
+              "id": "119",
+              "facilityName": "Thoda",
+              "facilityType": "SHC"
+            },
+            "120": {
+              "id": "120",
+              "facilityName": "Timbi",
+              "facilityType": "SHC"
+            },
+            "121": {
+              "id": "121",
+              "facilityName": "Umarala-1",
+              "facilityType": "SHC"
+            },
+            "122": {
+              "id": "122",
+              "facilityName": "Umarala-2",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Vallabhipur": {
+          "id": "Vallabhipur",
+          "blockPopulation": 80192,
+          "facilities": [
+            "126",
+            "131",
+            "127",
+            "123",
+            "132",
+            "138",
+            "133",
+            "139",
+            "134",
+            "128",
+            "135",
+            "129",
+            "136",
+            "124",
+            "130",
+            "125",
+            "140",
+            "137",
+            "141",
+            "142",
+            "143",
+            "144"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "126",
+              "131",
+              "127",
+              "132",
+              "138",
+              "133",
+              "139",
+              "134",
+              "128",
+              "135",
+              "129",
+              "136",
+              "130",
+              "140",
+              "137",
+              "141",
+              "142",
+              "143",
+              "144"
+            ],
+            "PHC": [
+              "123",
+              "124",
+              "125"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "123": {
+              "id": "123",
+              "facilityName": "Kalatalav",
+              "facilityType": "PHC"
+            },
+            "124": {
+              "id": "124",
+              "facilityName": "Patna",
+              "facilityType": "PHC"
+            },
+            "125": {
+              "id": "125",
+              "facilityName": "Ratanpar Ga.",
+              "facilityType": "PHC"
+            },
+            "126": {
+              "id": "126",
+              "facilityName": "Chamardi-1",
+              "facilityType": "SHC"
+            },
+            "127": {
+              "id": "127",
+              "facilityName": "Dared",
+              "facilityType": "SHC"
+            },
+            "128": {
+              "id": "128",
+              "facilityName": "Navagam (Lo)",
+              "facilityType": "SHC"
+            },
+            "129": {
+              "id": "129",
+              "facilityName": "Pachhegam",
+              "facilityType": "SHC"
+            },
+            "130": {
+              "id": "130",
+              "facilityName": "Rajasthali",
+              "facilityType": "SHC"
+            },
+            "131": {
+              "id": "131",
+              "facilityName": "Chamardi-2",
+              "facilityType": "SHC"
+            },
+            "132": {
+              "id": "132",
+              "facilityName": "Kanthariya",
+              "facilityType": "SHC"
+            },
+            "133": {
+              "id": "133",
+              "facilityName": "Malpara",
+              "facilityType": "SHC"
+            },
+            "134": {
+              "id": "134",
+              "facilityName": "Muldharai",
+              "facilityType": "SHC"
+            },
+            "135": {
+              "id": "135",
+              "facilityName": "Navagam(Ga)",
+              "facilityType": "SHC"
+            },
+            "136": {
+              "id": "136",
+              "facilityName": "Panvi",
+              "facilityType": "SHC"
+            },
+            "137": {
+              "id": "137",
+              "facilityName": "Totaniyala",
+              "facilityType": "SHC"
+            },
+            "138": {
+              "id": "138",
+              "facilityName": "Lakhanka (Vall)",
+              "facilityType": "SHC"
+            },
+            "139": {
+              "id": "139",
+              "facilityName": "Monpur",
+              "facilityType": "SHC"
+            },
+            "140": {
+              "id": "140",
+              "facilityName": "Shahpur",
+              "facilityType": "SHC"
+            },
+            "141": {
+              "id": "141",
+              "facilityName": "Vallabhipur-1",
+              "facilityType": "SHC"
+            },
+            "142": {
+              "id": "142",
+              "facilityName": "Vallabhipur-2",
+              "facilityType": "SHC"
+            },
+            "143": {
+              "id": "143",
+              "facilityName": "Vallabhipur-3",
+              "facilityType": "SHC"
+            },
+            "144": {
+              "id": "144",
+              "facilityName": "Vallabhipur-4",
+              "facilityType": "SHC"
+            }
+          }
+        }
+      },
+      "nFacilities": 309,
+      "nFacilitiesByFT": {
+        "SHC": 245,
+        "PHC": 48,
+        "UHC": 2,
+        "UPHC": 14
+      }
+    },
+    "Kalahandi": {
+      "id": "Kalahandi",
+      "districtPopulation": 1575869,
+      "blocks": [
+        "Bhawanipatna",
+        "Dharmagarh",
+        "Golamunda",
+        "Jaipatna",
+        "Junagarh",
+        "Kalampur",
+        "Karlamunda",
+        "Kesinga",
+        "Koksara",
+        "Lanjigarh",
+        "Madanpur Rampur",
+        "Narla",
+        "Thuamul Rampur"
+      ],
+      "blockMap": {
+        "Bhawanipatna": {
+          "id": "Bhawanipatna",
+          "blockPopulation": 239572,
+          "facilities": [
+            "587",
+            "388",
+            "389",
+            "390",
+            "391",
+            "588",
+            "392",
+            "589",
+            "393",
+            "394",
+            "395",
+            "590",
+            "396",
+            "397",
+            "398",
+            "591",
+            "399",
+            "400",
+            "401",
+            "402",
+            "403",
+            "404",
+            "405",
+            "406",
+            "407",
+            "408",
+            "409",
+            "410",
+            "592",
+            "593"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "388",
+              "389",
+              "390",
+              "391",
+              "392",
+              "393",
+              "394",
+              "395",
+              "396",
+              "397",
+              "398",
+              "399",
+              "400",
+              "401",
+              "402",
+              "403",
+              "404",
+              "405",
+              "406",
+              "407",
+              "408",
+              "409",
+              "410"
+            ],
+            "PHC": [
+              "587",
+              "588",
+              "589",
+              "590",
+              "591"
+            ],
+            "UHC": [],
+            "UPHC": [
+              "592",
+              "593"
+            ]
+          },
+          "facilityMap": {
+            "388": {
+              "id": "388",
+              "facilityName": "Artal SC",
+              "facilityType": "SHC"
+            },
+            "389": {
+              "id": "389",
+              "facilityName": "Borbhata SC",
+              "facilityType": "SHC"
+            },
+            "390": {
+              "id": "390",
+              "facilityName": "Chahagaon SC",
+              "facilityType": "SHC"
+            },
+            "391": {
+              "id": "391",
+              "facilityName": "Chheliamal SC",
+              "facilityType": "SHC"
+            },
+            "392": {
+              "id": "392",
+              "facilityName": "Dadpur SC",
+              "facilityType": "SHC"
+            },
+            "393": {
+              "id": "393",
+              "facilityName": "Deypur SC",
+              "facilityType": "SHC"
+            },
+            "394": {
+              "id": "394",
+              "facilityName": "Duarsuni SC",
+              "facilityType": "SHC"
+            },
+            "395": {
+              "id": "395",
+              "facilityName": "Gudialipadar SC",
+              "facilityType": "SHC"
+            },
+            "396": {
+              "id": "396",
+              "facilityName": "Kalam SC",
+              "facilityType": "SHC"
+            },
+            "397": {
+              "id": "397",
+              "facilityName": "Kamthana SC",
+              "facilityType": "SHC"
+            },
+            "398": {
+              "id": "398",
+              "facilityName": "Karlaguda SC",
+              "facilityType": "SHC"
+            },
+            "399": {
+              "id": "399",
+              "facilityName": "Kutrukhamar SC",
+              "facilityType": "SHC"
+            },
+            "400": {
+              "id": "400",
+              "facilityName": "Madiguda SC",
+              "facilityType": "SHC"
+            },
+            "401": {
+              "id": "401",
+              "facilityName": "Malgaon SC",
+              "facilityType": "SHC"
+            },
+            "402": {
+              "id": "402",
+              "facilityName": "Masigaon SC",
+              "facilityType": "SHC"
+            },
+            "403": {
+              "id": "403",
+              "facilityName": "Medinipur SC",
+              "facilityType": "SHC"
+            },
+            "404": {
+              "id": "404",
+              "facilityName": "Palna SC",
+              "facilityType": "SHC"
+            },
+            "405": {
+              "id": "405",
+              "facilityName": "Pokharighat SC",
+              "facilityType": "SHC"
+            },
+            "406": {
+              "id": "406",
+              "facilityName": "Risigaon SC",
+              "facilityType": "SHC"
+            },
+            "407": {
+              "id": "407",
+              "facilityName": "Sagada SC",
+              "facilityType": "SHC"
+            },
+            "408": {
+              "id": "408",
+              "facilityName": "Seinpur SC",
+              "facilityType": "SHC"
+            },
+            "409": {
+              "id": "409",
+              "facilityName": "Sujanpur SC",
+              "facilityType": "SHC"
+            },
+            "410": {
+              "id": "410",
+              "facilityName": "Thuapadar SC",
+              "facilityType": "SHC"
+            },
+            "587": {
+              "id": "587",
+              "facilityName": "ARTAL",
+              "facilityType": "PHC"
+            },
+            "588": {
+              "id": "588",
+              "facilityName": "DADPUR",
+              "facilityType": "PHC"
+            },
+            "589": {
+              "id": "589",
+              "facilityName": "DEUPUR",
+              "facilityType": "PHC"
+            },
+            "590": {
+              "id": "590",
+              "facilityName": "JUGSAHIPATNA PHC",
+              "facilityType": "PHC"
+            },
+            "591": {
+              "id": "591",
+              "facilityName": "KARLAPADA",
+              "facilityType": "PHC"
+            },
+            "592": {
+              "id": "592",
+              "facilityName": "UHWC NAKTIGUDA, BHAWANIPATNA",
+              "facilityType": "UPHC"
+            },
+            "593": {
+              "id": "593",
+              "facilityName": "UPHC Bhawanipatna",
+              "facilityType": "UPHC"
+            }
+          }
+        },
+        "Dharmagarh": {
+          "id": "Dharmagarh",
+          "blockPopulation": 139359,
+          "facilities": [
+            "411",
+            "594",
+            "412",
+            "413",
+            "414",
+            "415",
+            "416",
+            "417",
+            "418",
+            "419",
+            "595",
+            "596",
+            "420",
+            "421",
+            "422",
+            "423",
+            "424",
+            "425",
+            "426",
+            "597",
+            "598"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "411",
+              "412",
+              "413",
+              "414",
+              "415",
+              "416",
+              "417",
+              "418",
+              "419",
+              "420",
+              "421",
+              "422",
+              "423",
+              "424",
+              "425",
+              "426"
+            ],
+            "PHC": [
+              "594",
+              "595",
+              "596",
+              "597"
+            ],
+            "UHC": [],
+            "UPHC": [
+              "598"
+            ]
+          },
+          "facilityMap": {
+            "411": {
+              "id": "411",
+              "facilityName": "Ainlajore SC",
+              "facilityType": "SHC"
+            },
+            "412": {
+              "id": "412",
+              "facilityName": "Boden SC",
+              "facilityType": "SHC"
+            },
+            "413": {
+              "id": "413",
+              "facilityName": "Brahman Chhendia SC",
+              "facilityType": "SHC"
+            },
+            "414": {
+              "id": "414",
+              "facilityName": "Chhanchanbahili SC",
+              "facilityType": "SHC"
+            },
+            "415": {
+              "id": "415",
+              "facilityName": "Chhilpa SC",
+              "facilityType": "SHC"
+            },
+            "416": {
+              "id": "416",
+              "facilityName": "Dumerguda SC",
+              "facilityType": "SHC"
+            },
+            "417": {
+              "id": "417",
+              "facilityName": "Gadiajore SC",
+              "facilityType": "SHC"
+            },
+            "418": {
+              "id": "418",
+              "facilityName": "Ghumer SC",
+              "facilityType": "SHC"
+            },
+            "419": {
+              "id": "419",
+              "facilityName": "Jayantpur SC",
+              "facilityType": "SHC"
+            },
+            "420": {
+              "id": "420",
+              "facilityName": "Khairpadar SC",
+              "facilityType": "SHC"
+            },
+            "421": {
+              "id": "421",
+              "facilityName": "Kirkakani SC",
+              "facilityType": "SHC"
+            },
+            "422": {
+              "id": "422",
+              "facilityName": "Nandagaon SC",
+              "facilityType": "SHC"
+            },
+            "423": {
+              "id": "423",
+              "facilityName": "Rourahaldi SC",
+              "facilityType": "SHC"
+            },
+            "424": {
+              "id": "424",
+              "facilityName": "Tarapur SC",
+              "facilityType": "SHC"
+            },
+            "425": {
+              "id": "425",
+              "facilityName": "Telipalas SC",
+              "facilityType": "SHC"
+            },
+            "426": {
+              "id": "426",
+              "facilityName": "Thanat SC",
+              "facilityType": "SHC"
+            },
+            "594": {
+              "id": "594",
+              "facilityName": "BEHERA",
+              "facilityType": "PHC"
+            },
+            "595": {
+              "id": "595",
+              "facilityName": "KANKERI",
+              "facilityType": "PHC"
+            },
+            "596": {
+              "id": "596",
+              "facilityName": "KHAIRPADAR",
+              "facilityType": "PHC"
+            },
+            "597": {
+              "id": "597",
+              "facilityName": "TIPIGUDA",
+              "facilityType": "PHC"
+            },
+            "598": {
+              "id": "598",
+              "facilityName": "UHWC DHARMAGARH",
+              "facilityType": "UPHC"
+            }
+          }
+        },
+        "Golamunda": {
+          "id": "Golamunda",
+          "blockPopulation": 128499,
+          "facilities": [
+            "427",
+            "599",
+            "428",
+            "429",
+            "430",
+            "431",
+            "432",
+            "600",
+            "433",
+            "434",
+            "435",
+            "436",
+            "437",
+            "601",
+            "438",
+            "439",
+            "440",
+            "441",
+            "602"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "427",
+              "428",
+              "429",
+              "430",
+              "431",
+              "432",
+              "433",
+              "434",
+              "435",
+              "436",
+              "437",
+              "438",
+              "439",
+              "440",
+              "441"
+            ],
+            "PHC": [
+              "599",
+              "600",
+              "601",
+              "602"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "427": {
+              "id": "427",
+              "facilityName": "Badchergaon SC",
+              "facilityType": "SHC"
+            },
+            "428": {
+              "id": "428",
+              "facilityName": "Boreguda SC",
+              "facilityType": "SHC"
+            },
+            "429": {
+              "id": "429",
+              "facilityName": "Brundabahal SC",
+              "facilityType": "SHC"
+            },
+            "430": {
+              "id": "430",
+              "facilityName": "Chichia SC",
+              "facilityType": "SHC"
+            },
+            "431": {
+              "id": "431",
+              "facilityName": "Daspur SC",
+              "facilityType": "SHC"
+            },
+            "432": {
+              "id": "432",
+              "facilityName": "Dhamanpur SC",
+              "facilityType": "SHC"
+            },
+            "433": {
+              "id": "433",
+              "facilityName": "Gunduri SC",
+              "facilityType": "SHC"
+            },
+            "434": {
+              "id": "434",
+              "facilityName": "Kegaon SC",
+              "facilityType": "SHC"
+            },
+            "435": {
+              "id": "435",
+              "facilityName": "Khaliakani SC",
+              "facilityType": "SHC"
+            },
+            "436": {
+              "id": "436",
+              "facilityName": "Khaliapali SC",
+              "facilityType": "SHC"
+            },
+            "437": {
+              "id": "437",
+              "facilityName": "Khamarhaldi SC",
+              "facilityType": "SHC"
+            },
+            "438": {
+              "id": "438",
+              "facilityName": "Mahaling SC",
+              "facilityType": "SHC"
+            },
+            "439": {
+              "id": "439",
+              "facilityName": "Manjheri SC",
+              "facilityType": "SHC"
+            },
+            "440": {
+              "id": "440",
+              "facilityName": "Nuagaon SC",
+              "facilityType": "SHC"
+            },
+            "441": {
+              "id": "441",
+              "facilityName": "Rengsapali SC",
+              "facilityType": "SHC"
+            },
+            "599": {
+              "id": "599",
+              "facilityName": "BORDI",
+              "facilityType": "PHC"
+            },
+            "600": {
+              "id": "600",
+              "facilityName": "FARANG",
+              "facilityType": "PHC"
+            },
+            "601": {
+              "id": "601",
+              "facilityName": "Mahaling PHC(N)",
+              "facilityType": "PHC"
+            },
+            "602": {
+              "id": "602",
+              "facilityName": "UCHHALA",
+              "facilityType": "PHC"
+            }
+          }
+        },
+        "Jaipatna": {
+          "id": "Jaipatna",
+          "blockPopulation": 130724,
+          "facilities": [
+            "442",
+            "443",
+            "444",
+            "445",
+            "603",
+            "446",
+            "447",
+            "448",
+            "449",
+            "604",
+            "450",
+            "451",
+            "452",
+            "453",
+            "605",
+            "454",
+            "455",
+            "456",
+            "457",
+            "606",
+            "458"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "442",
+              "443",
+              "444",
+              "445",
+              "446",
+              "447",
+              "448",
+              "449",
+              "450",
+              "451",
+              "452",
+              "453",
+              "454",
+              "455",
+              "456",
+              "457",
+              "458"
+            ],
+            "PHC": [
+              "603",
+              "604",
+              "605",
+              "606"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "442": {
+              "id": "442",
+              "facilityName": "Anlabhata SC",
+              "facilityType": "SHC"
+            },
+            "443": {
+              "id": "443",
+              "facilityName": "Badkarlakot SC",
+              "facilityType": "SHC"
+            },
+            "444": {
+              "id": "444",
+              "facilityName": "Badpujhariguda SC",
+              "facilityType": "SHC"
+            },
+            "445": {
+              "id": "445",
+              "facilityName": "Badtemri SC",
+              "facilityType": "SHC"
+            },
+            "446": {
+              "id": "446",
+              "facilityName": "Baner SC",
+              "facilityType": "SHC"
+            },
+            "447": {
+              "id": "447",
+              "facilityName": "Bhainripali SC",
+              "facilityType": "SHC"
+            },
+            "448": {
+              "id": "448",
+              "facilityName": "Chachiguda SC",
+              "facilityType": "SHC"
+            },
+            "449": {
+              "id": "449",
+              "facilityName": "Chancharamal SC",
+              "facilityType": "SHC"
+            },
+            "450": {
+              "id": "450",
+              "facilityName": "Kanakpur SC",
+              "facilityType": "SHC"
+            },
+            "451": {
+              "id": "451",
+              "facilityName": "Karanjiguda SC",
+              "facilityType": "SHC"
+            },
+            "452": {
+              "id": "452",
+              "facilityName": "Mangalpur SC",
+              "facilityType": "SHC"
+            },
+            "453": {
+              "id": "453",
+              "facilityName": "Podaguda SC",
+              "facilityType": "SHC"
+            },
+            "454": {
+              "id": "454",
+              "facilityName": "Sargiguda SC",
+              "facilityType": "SHC"
+            },
+            "455": {
+              "id": "455",
+              "facilityName": "Sastuguda SC",
+              "facilityType": "SHC"
+            },
+            "456": {
+              "id": "456",
+              "facilityName": "Sundrijore SC",
+              "facilityType": "SHC"
+            },
+            "457": {
+              "id": "457",
+              "facilityName": "Talgud SC",
+              "facilityType": "SHC"
+            },
+            "458": {
+              "id": "458",
+              "facilityName": "Uchhula SC",
+              "facilityType": "SHC"
+            },
+            "603": {
+              "id": "603",
+              "facilityName": "BANDIGAON",
+              "facilityType": "PHC"
+            },
+            "604": {
+              "id": "604",
+              "facilityName": "DHANSULI",
+              "facilityType": "PHC"
+            },
+            "605": {
+              "id": "605",
+              "facilityName": "RANMAL OH",
+              "facilityType": "PHC"
+            },
+            "606": {
+              "id": "606",
+              "facilityName": "UCHHULA",
+              "facilityType": "PHC"
+            }
+          }
+        },
+        "Junagarh": {
+          "id": "Junagarh",
+          "blockPopulation": 193316,
+          "facilities": [
+            "459",
+            "460",
+            "461",
+            "462",
+            "607",
+            "463",
+            "464",
+            "465",
+            "608",
+            "466",
+            "467",
+            "468",
+            "469",
+            "609",
+            "470",
+            "471",
+            "610",
+            "472",
+            "611",
+            "473",
+            "474",
+            "475",
+            "476",
+            "477",
+            "478"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "459",
+              "460",
+              "461",
+              "462",
+              "463",
+              "464",
+              "465",
+              "466",
+              "467",
+              "468",
+              "469",
+              "470",
+              "471",
+              "472",
+              "473",
+              "474",
+              "475",
+              "476",
+              "477",
+              "478"
+            ],
+            "PHC": [
+              "607",
+              "608",
+              "609",
+              "610",
+              "611"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "459": {
+              "id": "459",
+              "facilityName": "Atigaon SC",
+              "facilityType": "SHC"
+            },
+            "460": {
+              "id": "460",
+              "facilityName": "Banijara SC",
+              "facilityType": "SHC"
+            },
+            "461": {
+              "id": "461",
+              "facilityName": "Bhainriguda SC",
+              "facilityType": "SHC"
+            },
+            "462": {
+              "id": "462",
+              "facilityName": "Budidar SC",
+              "facilityType": "SHC"
+            },
+            "463": {
+              "id": "463",
+              "facilityName": "Chhoriagarh SC",
+              "facilityType": "SHC"
+            },
+            "464": {
+              "id": "464",
+              "facilityName": "Chicheiguda SC",
+              "facilityType": "SHC"
+            },
+            "465": {
+              "id": "465",
+              "facilityName": "Dasigaon SC",
+              "facilityType": "SHC"
+            },
+            "466": {
+              "id": "466",
+              "facilityName": "Deundi SC",
+              "facilityType": "SHC"
+            },
+            "467": {
+              "id": "467",
+              "facilityName": "Dundelmal SC",
+              "facilityType": "SHC"
+            },
+            "468": {
+              "id": "468",
+              "facilityName": "Golamunda SC",
+              "facilityType": "SHC"
+            },
+            "469": {
+              "id": "469",
+              "facilityName": "Goudchhendia SC",
+              "facilityType": "SHC"
+            },
+            "470": {
+              "id": "470",
+              "facilityName": "Jaring SC",
+              "facilityType": "SHC"
+            },
+            "471": {
+              "id": "471",
+              "facilityName": "Jilingdar SC",
+              "facilityType": "SHC"
+            },
+            "472": {
+              "id": "472",
+              "facilityName": "Kupagaon SC",
+              "facilityType": "SHC"
+            },
+            "473": {
+              "id": "473",
+              "facilityName": "Maliguda SC",
+              "facilityType": "SHC"
+            },
+            "474": {
+              "id": "474",
+              "facilityName": "Mathura SC",
+              "facilityType": "SHC"
+            },
+            "475": {
+              "id": "475",
+              "facilityName": "Matigaon SC",
+              "facilityType": "SHC"
+            },
+            "476": {
+              "id": "476",
+              "facilityName": "Nandol SC",
+              "facilityType": "SHC"
+            },
+            "477": {
+              "id": "477",
+              "facilityName": "Pilkia SC",
+              "facilityType": "SHC"
+            },
+            "478": {
+              "id": "478",
+              "facilityName": "Talmala SC",
+              "facilityType": "SHC"
+            },
+            "607": {
+              "id": "607",
+              "facilityName": "CHARBAHAL",
+              "facilityType": "PHC"
+            },
+            "608": {
+              "id": "608",
+              "facilityName": "DEDAR",
+              "facilityType": "PHC"
+            },
+            "609": {
+              "id": "609",
+              "facilityName": "HABASPUR",
+              "facilityType": "PHC"
+            },
+            "610": {
+              "id": "610",
+              "facilityName": "KULIHARI",
+              "facilityType": "PHC"
+            },
+            "611": {
+              "id": "611",
+              "facilityName": "MAHICHALA",
+              "facilityType": "PHC"
+            }
+          }
+        },
+        "Kalampur": {
+          "id": "Kalampur",
+          "blockPopulation": 60075,
+          "facilities": [
+            "479",
+            "612",
+            "480",
+            "481",
+            "482",
+            "483",
+            "484",
+            "485",
+            "486"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "479",
+              "480",
+              "481",
+              "482",
+              "483",
+              "484",
+              "485",
+              "486"
+            ],
+            "PHC": [
+              "612"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "479": {
+              "id": "479",
+              "facilityName": "Badkutru SC",
+              "facilityType": "SHC"
+            },
+            "480": {
+              "id": "480",
+              "facilityName": "Bandhakana SC",
+              "facilityType": "SHC"
+            },
+            "481": {
+              "id": "481",
+              "facilityName": "Bankapala SC",
+              "facilityType": "SHC"
+            },
+            "482": {
+              "id": "482",
+              "facilityName": "Bijmara SC",
+              "facilityType": "SHC"
+            },
+            "483": {
+              "id": "483",
+              "facilityName": "Ichhapur SC",
+              "facilityType": "SHC"
+            },
+            "484": {
+              "id": "484",
+              "facilityName": "Mandal SC",
+              "facilityType": "SHC"
+            },
+            "485": {
+              "id": "485",
+              "facilityName": "Mingur SC",
+              "facilityType": "SHC"
+            },
+            "486": {
+              "id": "486",
+              "facilityName": "Patrabasa SC",
+              "facilityType": "SHC"
+            },
+            "612": {
+              "id": "612",
+              "facilityName": "BANDHAKANA",
+              "facilityType": "PHC"
+            }
+          }
+        },
+        "Karlamunda": {
+          "id": "Karlamunda",
+          "blockPopulation": 57418,
+          "facilities": [
+            "487",
+            "488",
+            "489",
+            "490",
+            "491",
+            "613",
+            "492",
+            "614",
+            "493",
+            "494",
+            "615"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "487",
+              "488",
+              "489",
+              "490",
+              "491",
+              "492",
+              "493",
+              "494"
+            ],
+            "PHC": [
+              "613",
+              "614",
+              "615"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "487": {
+              "id": "487",
+              "facilityName": "Borpadar SC",
+              "facilityType": "SHC"
+            },
+            "488": {
+              "id": "488",
+              "facilityName": "Gajbahal SC",
+              "facilityType": "SHC"
+            },
+            "489": {
+              "id": "489",
+              "facilityName": "Kusurla SC",
+              "facilityType": "SHC"
+            },
+            "490": {
+              "id": "490",
+              "facilityName": "Pourkela SC",
+              "facilityType": "SHC"
+            },
+            "491": {
+              "id": "491",
+              "facilityName": "Rajpur SC",
+              "facilityType": "SHC"
+            },
+            "492": {
+              "id": "492",
+              "facilityName": "Regeda SC",
+              "facilityType": "SHC"
+            },
+            "493": {
+              "id": "493",
+              "facilityName": "Saplahara SC",
+              "facilityType": "SHC"
+            },
+            "494": {
+              "id": "494",
+              "facilityName": "Sargul Malpada SC",
+              "facilityType": "SHC"
+            },
+            "613": {
+              "id": "613",
+              "facilityName": "REGEDA",
+              "facilityType": "PHC"
+            },
+            "614": {
+              "id": "614",
+              "facilityName": "RISIDHA OH",
+              "facilityType": "PHC"
+            },
+            "615": {
+              "id": "615",
+              "facilityName": "TERESINGHA",
+              "facilityType": "PHC"
+            }
+          }
+        },
+        "Kesinga": {
+          "id": "Kesinga",
+          "blockPopulation": 135067,
+          "facilities": [
+            "495",
+            "496",
+            "497",
+            "616",
+            "498",
+            "499",
+            "617",
+            "500",
+            "501",
+            "502",
+            "503",
+            "504",
+            "505",
+            "506",
+            "507",
+            "508",
+            "618"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "495",
+              "496",
+              "497",
+              "498",
+              "499",
+              "500",
+              "501",
+              "502",
+              "503",
+              "504",
+              "505",
+              "506",
+              "507",
+              "508"
+            ],
+            "PHC": [
+              "616",
+              "617",
+              "618"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "495": {
+              "id": "495",
+              "facilityName": "Adhamunda SC",
+              "facilityType": "SHC"
+            },
+            "496": {
+              "id": "496",
+              "facilityName": "Amath SC",
+              "facilityType": "SHC"
+            },
+            "497": {
+              "id": "497",
+              "facilityName": "Balsi SC",
+              "facilityType": "SHC"
+            },
+            "498": {
+              "id": "498",
+              "facilityName": "Belkhandi SC",
+              "facilityType": "SHC"
+            },
+            "499": {
+              "id": "499",
+              "facilityName": "Gokuleswar SC",
+              "facilityType": "SHC"
+            },
+            "500": {
+              "id": "500",
+              "facilityName": "Kandel SC",
+              "facilityType": "SHC"
+            },
+            "501": {
+              "id": "501",
+              "facilityName": "Kasrupada SC",
+              "facilityType": "SHC"
+            },
+            "502": {
+              "id": "502",
+              "facilityName": "Kerokuda SC",
+              "facilityType": "SHC"
+            },
+            "503": {
+              "id": "503",
+              "facilityName": "Kikia SC",
+              "facilityType": "SHC"
+            },
+            "504": {
+              "id": "504",
+              "facilityName": "Laitara SC",
+              "facilityType": "SHC"
+            },
+            "505": {
+              "id": "505",
+              "facilityName": "Paralsinga SC",
+              "facilityType": "SHC"
+            },
+            "506": {
+              "id": "506",
+              "facilityName": "Patharla SC",
+              "facilityType": "SHC"
+            },
+            "507": {
+              "id": "507",
+              "facilityName": "Tahansir SC",
+              "facilityType": "SHC"
+            },
+            "508": {
+              "id": "508",
+              "facilityName": "Tundla SC",
+              "facilityType": "SHC"
+            },
+            "616": {
+              "id": "616",
+              "facilityName": "BELKHANDI",
+              "facilityType": "PHC"
+            },
+            "617": {
+              "id": "617",
+              "facilityName": "KANDEL",
+              "facilityType": "PHC"
+            },
+            "618": {
+              "id": "618",
+              "facilityName": "UTKELA",
+              "facilityType": "PHC"
+            }
+          }
+        },
+        "Koksara": {
+          "id": "Koksara",
+          "blockPopulation": 119304,
+          "facilities": [
+            "619",
+            "509",
+            "620",
+            "510",
+            "511",
+            "512",
+            "513",
+            "514",
+            "515",
+            "516",
+            "517",
+            "518",
+            "519",
+            "621",
+            "520",
+            "521",
+            "522",
+            "523",
+            "524",
+            "525"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "509",
+              "510",
+              "511",
+              "512",
+              "513",
+              "514",
+              "515",
+              "516",
+              "517",
+              "518",
+              "519",
+              "520",
+              "521",
+              "522",
+              "523",
+              "524",
+              "525"
+            ],
+            "PHC": [
+              "619",
+              "620",
+              "621"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "509": {
+              "id": "509",
+              "facilityName": "Ampani SC",
+              "facilityType": "SHC"
+            },
+            "510": {
+              "id": "510",
+              "facilityName": "Badpodaguda SC",
+              "facilityType": "SHC"
+            },
+            "511": {
+              "id": "511",
+              "facilityName": "Chikili SC",
+              "facilityType": "SHC"
+            },
+            "512": {
+              "id": "512",
+              "facilityName": "Dahagaon SC",
+              "facilityType": "SHC"
+            },
+            "513": {
+              "id": "513",
+              "facilityName": "Dudkathenga SC",
+              "facilityType": "SHC"
+            },
+            "514": {
+              "id": "514",
+              "facilityName": "Gambhariguda SC",
+              "facilityType": "SHC"
+            },
+            "515": {
+              "id": "515",
+              "facilityName": "Ghantiguda SC",
+              "facilityType": "SHC"
+            },
+            "516": {
+              "id": "516",
+              "facilityName": "Gotomunda SC",
+              "facilityType": "SHC"
+            },
+            "517": {
+              "id": "517",
+              "facilityName": "Kashibahal SC",
+              "facilityType": "SHC"
+            },
+            "518": {
+              "id": "518",
+              "facilityName": "Kaudola SC",
+              "facilityType": "SHC"
+            },
+            "519": {
+              "id": "519",
+              "facilityName": "Kendudongri SC",
+              "facilityType": "SHC"
+            },
+            "520": {
+              "id": "520",
+              "facilityName": "Mirjapur SC",
+              "facilityType": "SHC"
+            },
+            "521": {
+              "id": "521",
+              "facilityName": "Moter SC",
+              "facilityType": "SHC"
+            },
+            "522": {
+              "id": "522",
+              "facilityName": "Mushapali SC",
+              "facilityType": "SHC"
+            },
+            "523": {
+              "id": "523",
+              "facilityName": "Phupgaon SC",
+              "facilityType": "SHC"
+            },
+            "524": {
+              "id": "524",
+              "facilityName": "Rengalpali SC",
+              "facilityType": "SHC"
+            },
+            "525": {
+              "id": "525",
+              "facilityName": "Temera SC",
+              "facilityType": "SHC"
+            },
+            "619": {
+              "id": "619",
+              "facilityName": "AMPANI PHC",
+              "facilityType": "PHC"
+            },
+            "620": {
+              "id": "620",
+              "facilityName": "BADPODAGUDA",
+              "facilityType": "PHC"
+            },
+            "621": {
+              "id": "621",
+              "facilityName": "LADUGAON",
+              "facilityType": "PHC"
+            }
+          }
+        },
+        "Lanjigarh": {
+          "id": "Lanjigarh",
+          "blockPopulation": 93179,
+          "facilities": [
+            "526",
+            "527",
+            "528",
+            "622",
+            "529",
+            "530",
+            "531",
+            "532",
+            "533",
+            "534",
+            "535",
+            "536",
+            "537",
+            "538",
+            "539",
+            "623",
+            "540",
+            "624",
+            "541",
+            "542",
+            "543",
+            "544",
+            "545"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "526",
+              "527",
+              "528",
+              "529",
+              "530",
+              "531",
+              "532",
+              "533",
+              "534",
+              "535",
+              "536",
+              "537",
+              "538",
+              "539",
+              "540",
+              "541",
+              "542",
+              "543",
+              "544",
+              "545"
+            ],
+            "PHC": [
+              "622",
+              "623",
+              "624"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "526": {
+              "id": "526",
+              "facilityName": "Bandhapari SC",
+              "facilityType": "SHC"
+            },
+            "527": {
+              "id": "527",
+              "facilityName": "Basantpara SC",
+              "facilityType": "SHC"
+            },
+            "528": {
+              "id": "528",
+              "facilityName": "Batelima SC",
+              "facilityType": "SHC"
+            },
+            "529": {
+              "id": "529",
+              "facilityName": "Bhatangpadar SC",
+              "facilityType": "SHC"
+            },
+            "530": {
+              "id": "530",
+              "facilityName": "Bhurti SC",
+              "facilityType": "SHC"
+            },
+            "531": {
+              "id": "531",
+              "facilityName": "Bijepur SC",
+              "facilityType": "SHC"
+            },
+            "532": {
+              "id": "532",
+              "facilityName": "Champadeipur SC",
+              "facilityType": "SHC"
+            },
+            "533": {
+              "id": "533",
+              "facilityName": "Chhatrapur SC",
+              "facilityType": "SHC"
+            },
+            "534": {
+              "id": "534",
+              "facilityName": "Gunduri SC",
+              "facilityType": "SHC"
+            },
+            "535": {
+              "id": "535",
+              "facilityName": "Kadamguda SC",
+              "facilityType": "SHC"
+            },
+            "536": {
+              "id": "536",
+              "facilityName": "Kamardha SC",
+              "facilityType": "SHC"
+            },
+            "537": {
+              "id": "537",
+              "facilityName": "Kankutru SC",
+              "facilityType": "SHC"
+            },
+            "538": {
+              "id": "538",
+              "facilityName": "Kumkhal SC",
+              "facilityType": "SHC"
+            },
+            "539": {
+              "id": "539",
+              "facilityName": "Lakhabahili SC",
+              "facilityType": "SHC"
+            },
+            "540": {
+              "id": "540",
+              "facilityName": "Lanjigarh Road SC",
+              "facilityType": "SHC"
+            },
+            "541": {
+              "id": "541",
+              "facilityName": "Malijubang SC",
+              "facilityType": "SHC"
+            },
+            "542": {
+              "id": "542",
+              "facilityName": "Malipada SC",
+              "facilityType": "SHC"
+            },
+            "543": {
+              "id": "543",
+              "facilityName": "Musanal SC",
+              "facilityType": "SHC"
+            },
+            "544": {
+              "id": "544",
+              "facilityName": "Pokharibandh SC",
+              "facilityType": "SHC"
+            },
+            "545": {
+              "id": "545",
+              "facilityName": "Trilochanpur SC",
+              "facilityType": "SHC"
+            },
+            "622": {
+              "id": "622",
+              "facilityName": "Bengaon PHC (N)",
+              "facilityType": "PHC"
+            },
+            "623": {
+              "id": "623",
+              "facilityName": "Lanjigarh Road PHC (N)",
+              "facilityType": "PHC"
+            },
+            "624": {
+              "id": "624",
+              "facilityName": "Madhupur PHC (N)",
+              "facilityType": "PHC"
+            }
+          }
+        },
+        "Madanpur Rampur": {
+          "id": "Madanpur Rampur",
+          "blockPopulation": 80524,
+          "facilities": [
+            "625",
+            "546",
+            "547",
+            "548",
+            "549",
+            "626",
+            "550",
+            "551",
+            "627",
+            "552",
+            "553",
+            "554",
+            "628",
+            "555"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "546",
+              "547",
+              "548",
+              "549",
+              "550",
+              "551",
+              "552",
+              "553",
+              "554",
+              "555"
+            ],
+            "PHC": [
+              "625",
+              "626",
+              "627",
+              "628"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "546": {
+              "id": "546",
+              "facilityName": "Belgaon SC",
+              "facilityType": "SHC"
+            },
+            "547": {
+              "id": "547",
+              "facilityName": "Dhekunkupa SC",
+              "facilityType": "SHC"
+            },
+            "548": {
+              "id": "548",
+              "facilityName": "Dk.Khunta SC",
+              "facilityType": "SHC"
+            },
+            "549": {
+              "id": "549",
+              "facilityName": "Gochhadengen SC",
+              "facilityType": "SHC"
+            },
+            "550": {
+              "id": "550",
+              "facilityName": "Madanpur SC",
+              "facilityType": "SHC"
+            },
+            "551": {
+              "id": "551",
+              "facilityName": "Manikera SC",
+              "facilityType": "SHC"
+            },
+            "552": {
+              "id": "552",
+              "facilityName": "Muding SC",
+              "facilityType": "SHC"
+            },
+            "553": {
+              "id": "553",
+              "facilityName": "Pandapadar SC",
+              "facilityType": "SHC"
+            },
+            "554": {
+              "id": "554",
+              "facilityName": "Turchi SC",
+              "facilityType": "SHC"
+            },
+            "555": {
+              "id": "555",
+              "facilityName": "Urladani SC",
+              "facilityType": "SHC"
+            },
+            "625": {
+              "id": "625",
+              "facilityName": "BARABANDHA",
+              "facilityType": "PHC"
+            },
+            "626": {
+              "id": "626",
+              "facilityName": "MADANPUR",
+              "facilityType": "PHC"
+            },
+            "627": {
+              "id": "627",
+              "facilityName": "MOHANGIRI",
+              "facilityType": "PHC"
+            },
+            "628": {
+              "id": "628",
+              "facilityName": "URLADANI PHC",
+              "facilityType": "PHC"
+            }
+          }
+        },
+        "Narla": {
+          "id": "Narla",
+          "blockPopulation": 120992,
+          "facilities": [
+            "556",
+            "557",
+            "558",
+            "559",
+            "560",
+            "561",
+            "562",
+            "563",
+            "564",
+            "629",
+            "630",
+            "631",
+            "565",
+            "566",
+            "567",
+            "568",
+            "569",
+            "570",
+            "632"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "556",
+              "557",
+              "558",
+              "559",
+              "560",
+              "561",
+              "562",
+              "563",
+              "564",
+              "565",
+              "566",
+              "567",
+              "568",
+              "569",
+              "570"
+            ],
+            "PHC": [
+              "629",
+              "630",
+              "631",
+              "632"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "556": {
+              "id": "556",
+              "facilityName": "Bagpur SC",
+              "facilityType": "SHC"
+            },
+            "557": {
+              "id": "557",
+              "facilityName": "Bhanpur SC",
+              "facilityType": "SHC"
+            },
+            "558": {
+              "id": "558",
+              "facilityName": "Ghantmal SC",
+              "facilityType": "SHC"
+            },
+            "559": {
+              "id": "559",
+              "facilityName": "Gigina SC",
+              "facilityType": "SHC"
+            },
+            "560": {
+              "id": "560",
+              "facilityName": "Khairmal SC",
+              "facilityType": "SHC"
+            },
+            "561": {
+              "id": "561",
+              "facilityName": "Mandel SC",
+              "facilityType": "SHC"
+            },
+            "562": {
+              "id": "562",
+              "facilityName": "Mursing SC",
+              "facilityType": "SHC"
+            },
+            "563": {
+              "id": "563",
+              "facilityName": "Muskuti SC",
+              "facilityType": "SHC"
+            },
+            "564": {
+              "id": "564",
+              "facilityName": "Nishanpur SC",
+              "facilityType": "SHC"
+            },
+            "565": {
+              "id": "565",
+              "facilityName": "Rupra SC",
+              "facilityType": "SHC"
+            },
+            "566": {
+              "id": "566",
+              "facilityName": "Sargiguda SC",
+              "facilityType": "SHC"
+            },
+            "567": {
+              "id": "567",
+              "facilityName": "Sarian SC",
+              "facilityType": "SHC"
+            },
+            "568": {
+              "id": "568",
+              "facilityName": "Sergarh SC",
+              "facilityType": "SHC"
+            },
+            "569": {
+              "id": "569",
+              "facilityName": "Shantpur SC",
+              "facilityType": "SHC"
+            },
+            "570": {
+              "id": "570",
+              "facilityName": "Tulapada SC",
+              "facilityType": "SHC"
+            },
+            "629": {
+              "id": "629",
+              "facilityName": "PALAM",
+              "facilityType": "PHC"
+            },
+            "630": {
+              "id": "630",
+              "facilityName": "RUPRA",
+              "facilityType": "PHC"
+            },
+            "631": {
+              "id": "631",
+              "facilityName": "RUPRA ROAD",
+              "facilityType": "PHC"
+            },
+            "632": {
+              "id": "632",
+              "facilityName": "ULIKUPA",
+              "facilityType": "PHC"
+            }
+          }
+        },
+        "Thuamul Rampur": {
+          "id": "Thuamul Rampur",
+          "blockPopulation": 77840,
+          "facilities": [
+            "633",
+            "571",
+            "572",
+            "573",
+            "574",
+            "575",
+            "576",
+            "577",
+            "578",
+            "579",
+            "580",
+            "581",
+            "582",
+            "583",
+            "584",
+            "634",
+            "585",
+            "586"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "571",
+              "572",
+              "573",
+              "574",
+              "575",
+              "576",
+              "577",
+              "578",
+              "579",
+              "580",
+              "581",
+              "582",
+              "583",
+              "584",
+              "585",
+              "586"
+            ],
+            "PHC": [
+              "633",
+              "634"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "571": {
+              "id": "571",
+              "facilityName": "Adri SC",
+              "facilityType": "SHC"
+            },
+            "572": {
+              "id": "572",
+              "facilityName": "Badchhatrang SC",
+              "facilityType": "SHC"
+            },
+            "573": {
+              "id": "573",
+              "facilityName": "Balisara SC",
+              "facilityType": "SHC"
+            },
+            "574": {
+              "id": "574",
+              "facilityName": "Gopalpur SC",
+              "facilityType": "SHC"
+            },
+            "575": {
+              "id": "575",
+              "facilityName": "Gopinathpur SC",
+              "facilityType": "SHC"
+            },
+            "576": {
+              "id": "576",
+              "facilityName": "Gunupur SC",
+              "facilityType": "SHC"
+            },
+            "577": {
+              "id": "577",
+              "facilityName": "Kaniguma SC",
+              "facilityType": "SHC"
+            },
+            "578": {
+              "id": "578",
+              "facilityName": "Karlapat SC",
+              "facilityType": "SHC"
+            },
+            "579": {
+              "id": "579",
+              "facilityName": "Kathkura SC",
+              "facilityType": "SHC"
+            },
+            "580": {
+              "id": "580",
+              "facilityName": "Kerpai SC",
+              "facilityType": "SHC"
+            },
+            "581": {
+              "id": "581",
+              "facilityName": "Kiapadar SC",
+              "facilityType": "SHC"
+            },
+            "582": {
+              "id": "582",
+              "facilityName": "Korang SC",
+              "facilityType": "SHC"
+            },
+            "583": {
+              "id": "583",
+              "facilityName": "Mahulpatna SC",
+              "facilityType": "SHC"
+            },
+            "584": {
+              "id": "584",
+              "facilityName": "Malkandel SC",
+              "facilityType": "SHC"
+            },
+            "585": {
+              "id": "585",
+              "facilityName": "Podapadar SC",
+              "facilityType": "SHC"
+            },
+            "586": {
+              "id": "586",
+              "facilityName": "Sindhipadar SC",
+              "facilityType": "SHC"
+            },
+            "633": {
+              "id": "633",
+              "facilityName": "ADRI",
+              "facilityType": "PHC"
+            },
+            "634": {
+              "id": "634",
+              "facilityName": "NAKRUNDI",
+              "facilityType": "PHC"
+            }
+          }
+        }
+      },
+      "nFacilities": 247,
+      "nFacilitiesByFT": {
+        "SHC": 199,
+        "PHC": 45,
+        "UHC": 0,
+        "UPHC": 3
+      }
+    },
+    "West Garo Hills": {
+      "id": "West Garo Hills",
+      "districtPopulation": 496586,
+      "blocks": [
+        "Dadengre",
+        "Dalu",
+        "Gambegre",
+        "Rongram",
+        "Selsella",
+        "Tikrikilla"
+      ],
+      "blockMap": {
+        "Dadengre": {
+          "id": "Dadengre",
+          "blockPopulation": 41595,
+          "facilities": [
+            "334",
+            "335",
+            "336",
+            "337",
+            "338"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "334",
+              "335",
+              "336",
+              "337",
+              "338"
+            ],
+            "PHC": [],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "334": {
+              "id": "334",
+              "facilityName": "Bikonggre SC",
+              "facilityType": "SHC"
+            },
+            "335": {
+              "id": "335",
+              "facilityName": "Bollonggre SC",
+              "facilityType": "SHC"
+            },
+            "336": {
+              "id": "336",
+              "facilityName": "Damal Asim SC",
+              "facilityType": "SHC"
+            },
+            "337": {
+              "id": "337",
+              "facilityName": "Mangalpara SC",
+              "facilityType": "SHC"
+            },
+            "338": {
+              "id": "338",
+              "facilityName": "Romgre SC",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Dalu": {
+          "id": "Dalu",
+          "blockPopulation": 54095,
+          "facilities": [
+            "376",
+            "377",
+            "378",
+            "379",
+            "380",
+            "381",
+            "382",
+            "383",
+            "384",
+            "385",
+            "386",
+            "387"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "376",
+              "377",
+              "378",
+              "379",
+              "380",
+              "382",
+              "384",
+              "385",
+              "386",
+              "387"
+            ],
+            "PHC": [
+              "381",
+              "383"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "376": {
+              "id": "376",
+              "facilityName": "Chengapara SC",
+              "facilityType": "SHC"
+            },
+            "377": {
+              "id": "377",
+              "facilityName": "Gonchudare SC",
+              "facilityType": "SHC"
+            },
+            "378": {
+              "id": "378",
+              "facilityName": "Halchati SC",
+              "facilityType": "SHC"
+            },
+            "379": {
+              "id": "379",
+              "facilityName": "Jijikapara SC",
+              "facilityType": "SHC"
+            },
+            "380": {
+              "id": "380",
+              "facilityName": "Joshipara SC",
+              "facilityType": "SHC"
+            },
+            "381": {
+              "id": "381",
+              "facilityName": "Kherapara PHC",
+              "facilityType": "PHC"
+            },
+            "382": {
+              "id": "382",
+              "facilityName": "Posenggagre SC",
+              "facilityType": "SHC"
+            },
+            "383": {
+              "id": "383",
+              "facilityName": "Purakhasia PHC",
+              "facilityType": "PHC"
+            },
+            "384": {
+              "id": "384",
+              "facilityName": "Rimrangpara SC",
+              "facilityType": "SHC"
+            },
+            "385": {
+              "id": "385",
+              "facilityName": "Sandongdapgre SC",
+              "facilityType": "SHC"
+            },
+            "386": {
+              "id": "386",
+              "facilityName": "Sangknigre SC",
+              "facilityType": "SHC"
+            },
+            "387": {
+              "id": "387",
+              "facilityName": "Sesengpara SC",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Gambegre": {
+          "id": "Gambegre",
+          "blockPopulation": 33546,
+          "facilities": [
+            "352",
+            "353",
+            "354",
+            "355",
+            "356",
+            "357",
+            "358",
+            "351"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "352",
+              "353",
+              "354",
+              "355",
+              "357",
+              "358",
+              "351"
+            ],
+            "PHC": [
+              "356"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "351": {
+              "id": "351",
+              "facilityName": "Gambegre SC",
+              "facilityType": "SHC"
+            },
+            "352": {
+              "id": "352",
+              "facilityName": "Amindagre SC",
+              "facilityType": "SHC"
+            },
+            "353": {
+              "id": "353",
+              "facilityName": "Bolchugre SC",
+              "facilityType": "SHC"
+            },
+            "354": {
+              "id": "354",
+              "facilityName": "Chisakgre SC",
+              "facilityType": "SHC"
+            },
+            "355": {
+              "id": "355",
+              "facilityName": "Dakopgre SC",
+              "facilityType": "SHC"
+            },
+            "356": {
+              "id": "356",
+              "facilityName": "Darengre PHC",
+              "facilityType": "PHC"
+            },
+            "357": {
+              "id": "357",
+              "facilityName": "Doldegre SC",
+              "facilityType": "SHC"
+            },
+            "358": {
+              "id": "358",
+              "facilityName": "Edenbari SC",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Rongram": {
+          "id": "Rongram",
+          "blockPopulation": 133756,
+          "facilities": [
+            "361",
+            "360",
+            "369",
+            "375",
+            "363",
+            "371",
+            "362",
+            "370",
+            "373",
+            "364",
+            "359",
+            "374",
+            "365",
+            "372",
+            "368",
+            "366",
+            "367"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "361",
+              "375",
+              "363",
+              "371",
+              "362",
+              "370",
+              "364",
+              "359",
+              "365",
+              "368",
+              "366",
+              "367"
+            ],
+            "PHC": [
+              "360",
+              "369"
+            ],
+            "UHC": [],
+            "UPHC": [
+              "373",
+              "374",
+              "372"
+            ]
+          },
+          "facilityMap": {
+            "359": {
+              "id": "359",
+              "facilityName": "Marakgre SC",
+              "facilityType": "SHC"
+            },
+            "360": {
+              "id": "360",
+              "facilityName": "Asananggiri PHC",
+              "facilityType": "PHC"
+            },
+            "361": {
+              "id": "361",
+              "facilityName": "Anogre SC",
+              "facilityType": "SHC"
+            },
+            "362": {
+              "id": "362",
+              "facilityName": "Boldorenggre SC",
+              "facilityType": "SHC"
+            },
+            "363": {
+              "id": "363",
+              "facilityName": "Baljek SC",
+              "facilityType": "SHC"
+            },
+            "364": {
+              "id": "364",
+              "facilityName": "Manggakgre SC",
+              "facilityType": "SHC"
+            },
+            "365": {
+              "id": "365",
+              "facilityName": "Rombagre SC",
+              "facilityType": "SHC"
+            },
+            "366": {
+              "id": "366",
+              "facilityName": "WaramSongma SC",
+              "facilityType": "SHC"
+            },
+            "367": {
+              "id": "367",
+              "facilityName": "Waribokgre SC",
+              "facilityType": "SHC"
+            },
+            "368": {
+              "id": "368",
+              "facilityName": "Tosekgre SC",
+              "facilityType": "SHC"
+            },
+            "369": {
+              "id": "369",
+              "facilityName": "Babadam PHC",
+              "facilityType": "PHC"
+            },
+            "370": {
+              "id": "370",
+              "facilityName": "Chidekgre SC",
+              "facilityType": "SHC"
+            },
+            "371": {
+              "id": "371",
+              "facilityName": "Boldakgre SC",
+              "facilityType": "SHC"
+            },
+            "372": {
+              "id": "372",
+              "facilityName": "Sampalgre UPHC",
+              "facilityType": "UPHC"
+            },
+            "373": {
+              "id": "373",
+              "facilityName": "Dobasipara UHC",
+              "facilityType": "UPHC"
+            },
+            "374": {
+              "id": "374",
+              "facilityName": "Matchakolgre UPHC",
+              "facilityType": "UPHC"
+            },
+            "375": {
+              "id": "375",
+              "facilityName": "Babadam SC",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Selsella": {
+          "id": "Selsella",
+          "blockPopulation": 175206,
+          "facilities": [
+            "310",
+            "312",
+            "313",
+            "314",
+            "315",
+            "316",
+            "317",
+            "318",
+            "319",
+            "320",
+            "321",
+            "311",
+            "322",
+            "323",
+            "324",
+            "325",
+            "326",
+            "327",
+            "328",
+            "329",
+            "330",
+            "331",
+            "332",
+            "333"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "310",
+              "312",
+              "313",
+              "314",
+              "315",
+              "316",
+              "318",
+              "319",
+              "320",
+              "311",
+              "322",
+              "323",
+              "324",
+              "325",
+              "326",
+              "327",
+              "328",
+              "329",
+              "330",
+              "331",
+              "332",
+              "333"
+            ],
+            "PHC": [
+              "317",
+              "321"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "310": {
+              "id": "310",
+              "facilityName": "Bamundanga SC",
+              "facilityType": "SHC"
+            },
+            "311": {
+              "id": "311",
+              "facilityName": "Jongkipara SC",
+              "facilityType": "SHC"
+            },
+            "312": {
+              "id": "312",
+              "facilityName": "Batabari SC",
+              "facilityType": "SHC"
+            },
+            "313": {
+              "id": "313",
+              "facilityName": "Belbari SC",
+              "facilityType": "SHC"
+            },
+            "314": {
+              "id": "314",
+              "facilityName": "Bhajamara SC",
+              "facilityType": "SHC"
+            },
+            "315": {
+              "id": "315",
+              "facilityName": "Chanangpara sc",
+              "facilityType": "SHC"
+            },
+            "316": {
+              "id": "316",
+              "facilityName": "Cheran Songma SC",
+              "facilityType": "SHC"
+            },
+            "317": {
+              "id": "317",
+              "facilityName": "Chibinang PHC",
+              "facilityType": "PHC"
+            },
+            "318": {
+              "id": "318",
+              "facilityName": "Dabakgre SC",
+              "facilityType": "SHC"
+            },
+            "319": {
+              "id": "319",
+              "facilityName": "Damjonggre SC",
+              "facilityType": "SHC"
+            },
+            "320": {
+              "id": "320",
+              "facilityName": "Hallidayganj SC",
+              "facilityType": "SHC"
+            },
+            "321": {
+              "id": "321",
+              "facilityName": "Jeldupara PHC",
+              "facilityType": "PHC"
+            },
+            "322": {
+              "id": "322",
+              "facilityName": "Mangchim SC",
+              "facilityType": "SHC"
+            },
+            "323": {
+              "id": "323",
+              "facilityName": "Marok SC",
+              "facilityType": "SHC"
+            },
+            "324": {
+              "id": "324",
+              "facilityName": "Masangpani SC",
+              "facilityType": "SHC"
+            },
+            "325": {
+              "id": "325",
+              "facilityName": "Maulakandi SC",
+              "facilityType": "SHC"
+            },
+            "326": {
+              "id": "326",
+              "facilityName": "Rajabala SC",
+              "facilityType": "SHC"
+            },
+            "327": {
+              "id": "327",
+              "facilityName": "Rangrigre SC",
+              "facilityType": "SHC"
+            },
+            "328": {
+              "id": "328",
+              "facilityName": "Rochonpara SC",
+              "facilityType": "SHC"
+            },
+            "329": {
+              "id": "329",
+              "facilityName": "Rongkhongre SC",
+              "facilityType": "SHC"
+            },
+            "330": {
+              "id": "330",
+              "facilityName": "Thakimagre SC",
+              "facilityType": "SHC"
+            },
+            "331": {
+              "id": "331",
+              "facilityName": "Ujenggre SC",
+              "facilityType": "SHC"
+            },
+            "332": {
+              "id": "332",
+              "facilityName": "Wajadagre SC",
+              "facilityType": "SHC"
+            },
+            "333": {
+              "id": "333",
+              "facilityName": "Zikabari SC",
+              "facilityType": "SHC"
+            }
+          }
+        },
+        "Tikrikilla": {
+          "id": "Tikrikilla",
+          "blockPopulation": 58388,
+          "facilities": [
+            "339",
+            "341",
+            "342",
+            "348",
+            "343",
+            "344",
+            "345",
+            "346",
+            "347",
+            "340",
+            "349",
+            "350"
+          ],
+          "facilitiesByFT": {
+            "SHC": [
+              "339",
+              "341",
+              "342",
+              "348",
+              "343",
+              "344",
+              "346",
+              "347",
+              "340",
+              "349"
+            ],
+            "PHC": [
+              "345",
+              "350"
+            ],
+            "UHC": [],
+            "UPHC": []
+          },
+          "facilityMap": {
+            "339": {
+              "id": "339",
+              "facilityName": "Belguri SC",
+              "facilityType": "SHC"
+            },
+            "340": {
+              "id": "340",
+              "facilityName": "Rengsinpara SC",
+              "facilityType": "SHC"
+            },
+            "341": {
+              "id": "341",
+              "facilityName": "Hatogaon SC",
+              "facilityType": "SHC"
+            },
+            "342": {
+              "id": "342",
+              "facilityName": "Hollaidanga SC",
+              "facilityType": "SHC"
+            },
+            "343": {
+              "id": "343",
+              "facilityName": "Naguapara SC",
+              "facilityType": "SHC"
+            },
+            "344": {
+              "id": "344",
+              "facilityName": "Nidanpur SC",
+              "facilityType": "SHC"
+            },
+            "345": {
+              "id": "345",
+              "facilityName": "Pedaldoba PHC",
+              "facilityType": "PHC"
+            },
+            "346": {
+              "id": "346",
+              "facilityName": "Pedaldoba SC",
+              "facilityType": "SHC"
+            },
+            "347": {
+              "id": "347",
+              "facilityName": "Rangsagre SC",
+              "facilityType": "SHC"
+            },
+            "348": {
+              "id": "348",
+              "facilityName": "Jangnapara SC",
+              "facilityType": "SHC"
+            },
+            "349": {
+              "id": "349",
+              "facilityName": "Rongbokgre SC",
+              "facilityType": "SHC"
+            },
+            "350": {
+              "id": "350",
+              "facilityName": "Tikrikilla PHC",
+              "facilityType": "PHC"
+            }
+          }
+        }
+      },
+      "nFacilities": 78,
+      "nFacilitiesByFT": {
+        "SHC": 66,
+        "PHC": 9,
+        "UHC": 0,
+        "UPHC": 3
+      }
+    }
+  }
+}

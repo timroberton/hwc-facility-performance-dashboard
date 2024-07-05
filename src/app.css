@@ -1,0 +1,96 @@
+@import "./ui/ui.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-display: block;
+    font-family: "Roboto Condensed";
+    font-style: normal;
+    font-weight: 400;
+    src: url("/fonts/roboto-condensed-v25-latin-regular.woff") format("woff");
+  }
+  @font-face {
+    font-display: block;
+    font-family: "Roboto Condensed";
+    font-style: italic;
+    font-weight: 400;
+    src: url("/fonts/roboto-condensed-v25-latin-italic.woff") format("woff");
+  }
+
+  @font-face {
+    font-display: block;
+    font-family: "Roboto Condensed";
+    font-style: normal;
+    font-weight: 700;
+    src: url("/fonts/roboto-condensed-v25-latin-700.woff") format("woff");
+  }
+
+  html,
+  body,
+  #app {
+    @apply m-0 h-full w-full bg-base-100 p-0 font-sans text-base-content;
+    overscroll-behavior-y: none;
+    overscroll-behavior-x: none;
+  }
+}
+
+@layer utilities {
+  .ui-gap {
+    @apply gap-x-8 gap-y-6;
+  }
+
+  .ui-gap-sm {
+    @apply gap-2;
+  }
+
+  .ui-space-y {
+    @apply space-y-6;
+  }
+
+  .ui-space-x {
+    @apply space-x-8;
+  }
+
+  .ui-space-x-sm {
+    @apply space-x-2;
+  }
+
+  .ui-pad {
+    @apply px-8 py-6;
+  }
+
+  .ui-alert-w {
+    @apply w-[80%] max-w-[800px];
+  }
+
+  .ui-hoverable {
+    @apply hover:brightness-90;
+  }
+
+  .ui-disabled {
+    @apply opacity-70 hover:brightness-100;
+  }
+
+  .ui-focusable {
+    @apply outline-none ring-0 ring-primary ring-offset-0 ring-offset-base-100 focus:outline-none focus:ring-0 focus:ring-offset-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 data-neutral:focus-visible:ring-neutral data-success:focus-visible:ring-success data-danger:focus-visible:ring-danger;
+  }
+
+  .ui-never-focusable {
+    @apply outline-none ring-0 ring-offset-0 focus:outline-none focus:ring-0 focus:ring-offset-0 focus-visible:outline-none focus-visible:ring-0 focus-visible:ring-offset-0;
+  }
+}
+
+@layer utilities {
+  .heading-2 {
+    @apply text-3xl font-700;
+  }
+  .heading-3 {
+    @apply text-2xl font-700;
+  }
+  .heading-4 {
+    @apply text-xl font-700;
+  }
+}
